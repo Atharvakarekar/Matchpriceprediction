@@ -1,0 +1,1886 @@
+Team1,Team2,Rating1,Rating2,RatingDiff,Stand1,Stand2
+India IND,Turkey TUR,268,0,268,1000,1500
+India IND,Thailand THA,268,0,268,1000,1500
+India IND,Eswatini SWA,268,0,268,1000,1500
+India IND,Lesotho LES,268,0,268,1000,1500
+India IND,Estonia EST,268,0,268,1000,1500
+India IND,Gibraltar GIB,268,3,265,1000,1500
+India IND,Greece GRE,268,3,265,1000,1500
+India IND,Maldives MDV,268,5,263,1000,1500
+India IND,Seychelles SEY,268,9,259,1000,1500
+India IND,Bulgaria BUL,268,9,259,1000,1500
+India IND,Samoa SAM,268,10,258,1000,1500
+India IND,Serbia SER,268,11,257,1000,1500
+India IND,Rwanda RWA,268,19,249,1000,1500
+India IND,Panama PAN,268,21,247,1000,1500
+India IND,Hungary HUN,268,22,246,1000,1500
+India IND,Belize BIZ,268,22,246,1000,1500
+India IND,Mozambique MOZ,268,24,244,1000,1500
+India IND,Bahamas BAH,268,24,244,1000,1500
+India IND,Cyprus CYP,268,26,242,1000,1500
+India IND,Bhutan BHU,268,30,238,1000,1500
+India IND,Sierra Leone SRL,268,33,235,1000,1500
+India IND,Luxembourg LUX,268,34,234,1000,1500
+India IND,Switzerland CHE,268,36,232,1000,1500
+India IND,Malta MLT,268,36,232,1000,1500
+India IND,Czech Republic CZE,268,41,227,1000,1500
+India IND,Ghana GHA,268,42,226,1000,1500
+India IND,Sweden SWE,268,43,225,1000,1500
+India IND,Malawi MAW,268,45,223,1000,1500
+India IND,Argentina ARG,268,48,220,1000,1500
+India IND,Finland FIN,268,52,216,1000,1500
+India IND,France FRA,268,52,216,1000,1500
+India IND,Norway NOR,268,53,215,1000,1500
+India IND,Vanuatu VAN,268,55,213,1000,1500
+India IND,Romania ROM,268,57,211,1000,1500
+India IND,Portugal POR,268,59,209,1000,1500
+India IND,Botswana BOT,268,63,205,1000,1500
+India IND,Nigeria NGR,268,64,204,1000,1500
+India IND,Austria AUT,268,65,203,1000,1500
+India IND,Cayman Islands CAY,268,66,202,1000,1500
+India IND,Belgium BEL,268,67,201,1000,1500
+India IND,Isle of Man IOM,268,68,200,1000,1500
+India IND,Guernsey GSY,268,70,198,1200,1800
+India IND,Denmark DEN,268,72,196,1200,1800
+India IND,Spain ESP,268,79,189,1200,1800
+India IND,Germany GER,268,84,184,1200,1800
+India IND,Bermuda BRM,268,88,180,1200,1800
+India IND,Tanzania TAN,268,90,178,1200,1800
+India IND,Saudi Arabia SDA,268,94,174,1200,1800
+India IND,Bahrain BRN,268,96,172,1200,1800
+India IND,Malaysia MAS,268,106,162,1200,1800
+India IND,Italy ITA,268,106,162,1200,1800
+India IND,Kenya KEN,268,107,161,1200,1800
+India IND,Singapore SIN,268,115,153,1200,1800
+India IND,Uganda UGA,268,118,150,1200,1800
+India IND,United States USA,268,119,149,1200,1800
+India IND,Kuwait KUW,268,120,148,1200,1800
+India IND,Qatar QAT,268,126,142,1200,1800
+India IND,Jersey JSY,268,127,141,1200,1800
+India IND,Canada CAN,268,128,140,1200,1800
+India IND,Hong Kong HK,268,128,140,1200,1800
+India IND,Papua New Guinea PNG,268,146,122,1200,1800
+India IND,Netherlands NED,268,168,100,1200,1800
+India IND,Oman OMA,268,170,98,1400,2000
+India IND,Nepal NEP,268,180,88,1400,2000
+India IND,Scotland SCO,268,182,86,1400,2000
+India IND,Namibia NAM,268,183,85,1400,2000
+India IND,UAE UAE,268,185,83,1400,2000
+India IND,Ireland IRE,268,187,81,1400,2000
+India IND,Zimbabwe ZIM,268,194,74,1400,2000
+India IND,Afghanistan AFG,268,219,49,1800,2500
+India IND,Bangladesh BAN,268,223,45,1800,2500
+India IND,Sri Lanka SL,268,237,31,1800,2500
+India IND,West Indies WI,268,241,27,1800,2500
+India IND,Australia AUS,268,250,18,2000,2800
+India IND,New Zealand NZ,268,252,16,2000,2800
+India IND,South Africa SA,268,258,10,2000,2800
+India IND,Pakistan PAK,268,258,10,2000,2800
+India IND,England ENG,268,262,6,2000,2800
+England ENG,Turkey TUR,262,0,262,1000,1500
+England ENG,Thailand THA,262,0,262,1000,1500
+England ENG,Eswatini SWA,262,0,262,1000,1500
+England ENG,Lesotho LES,262,0,262,1000,1500
+England ENG,Estonia EST,262,0,262,1000,1500
+England ENG,Gibraltar GIB,262,3,259,1000,1500
+England ENG,Greece GRE,262,3,259,1000,1500
+England ENG,Maldives MDV,262,5,257,1000,1500
+England ENG,Seychelles SEY,262,9,253,1000,1500
+England ENG,Bulgaria BUL,262,9,253,1000,1500
+England ENG,Samoa SAM,262,10,252,1000,1500
+England ENG,Serbia SER,262,11,251,1000,1500
+England ENG,Rwanda RWA,262,19,243,1000,1500
+England ENG,Panama PAN,262,21,241,1000,1500
+England ENG,Hungary HUN,262,22,240,1000,1500
+England ENG,Belize BIZ,262,22,240,1000,1500
+England ENG,Mozambique MOZ,262,24,238,1000,1500
+England ENG,Bahamas BAH,262,24,238,1000,1500
+England ENG,Cyprus CYP,262,26,236,1000,1500
+England ENG,Bhutan BHU,262,30,232,1000,1500
+England ENG,Sierra Leone SRL,262,33,229,1000,1500
+England ENG,Luxembourg LUX,262,34,228,1000,1500
+England ENG,Switzerland CHE,262,36,226,1000,1500
+England ENG,Malta MLT,262,36,226,1000,1500
+England ENG,Czech Republic CZE,262,41,221,1000,1500
+England ENG,Ghana GHA,262,42,220,1000,1500
+England ENG,Sweden SWE,262,43,219,1000,1500
+England ENG,Malawi MAW,262,45,217,1000,1500
+England ENG,Argentina ARG,262,48,214,1000,1500
+England ENG,Finland FIN,262,52,210,1000,1500
+England ENG,France FRA,262,52,210,1000,1500
+England ENG,Norway NOR,262,53,209,1000,1500
+England ENG,Vanuatu VAN,262,55,207,1000,1500
+England ENG,Romania ROM,262,57,205,1000,1500
+England ENG,Portugal POR,262,59,203,1000,1500
+England ENG,Botswana BOT,262,63,199,1200,1800
+England ENG,Nigeria NGR,262,64,198,1200,1800
+England ENG,Austria AUT,262,65,197,1200,1800
+England ENG,Cayman Islands CAY,262,66,196,1200,1800
+England ENG,Belgium BEL,262,67,195,1200,1800
+England ENG,Isle of Man IOM,262,68,194,1200,1800
+England ENG,Guernsey GSY,262,70,192,1200,1800
+England ENG,Denmark DEN,262,72,190,1200,1800
+England ENG,Spain ESP,262,79,183,1200,1800
+England ENG,Germany GER,262,84,178,1200,1800
+England ENG,Bermuda BRM,262,88,174,1200,1800
+England ENG,Tanzania TAN,262,90,172,1200,1800
+England ENG,Saudi Arabia SDA,262,94,168,1200,1800
+England ENG,Bahrain BRN,262,96,166,1200,1800
+England ENG,Malaysia MAS,262,106,156,1200,1800
+England ENG,Italy ITA,262,106,156,1200,1800
+England ENG,Kenya KEN,262,107,155,1200,1800
+England ENG,Singapore SIN,262,115,147,1200,1800
+England ENG,Uganda UGA,262,118,144,1200,1800
+England ENG,United States USA,262,119,143,1200,1800
+England ENG,Kuwait KUW,262,120,142,1200,1800
+England ENG,Qatar QAT,262,126,136,1200,1800
+England ENG,Jersey JSY,262,127,135,1200,1800
+England ENG,Canada CAN,262,128,134,1200,1800
+England ENG,Hong Kong HK,262,128,134,1200,1800
+England ENG,Papua New Guinea PNG,262,146,116,1200,1800
+England ENG,Netherlands NED,262,168,94,1400,2100
+England ENG,Oman OMA,262,170,92,1400,2100
+England ENG,Nepal NEP,262,180,82,1400,2100
+England ENG,Scotland SCO,262,182,80,1400,2100
+England ENG,Namibia NAM,262,183,79,1400,2100
+England ENG,UAE UAE,262,185,77,1400,2100
+England ENG,Ireland IRE,262,187,75,1400,2100
+England ENG,Zimbabwe ZIM,262,194,68,1400,2100
+England ENG,Afghanistan AFG,262,219,43,1800,2500
+England ENG,Bangladesh BAN,262,223,39,1800,2500
+England ENG,Sri Lanka SL,262,237,25,1800,2500
+England ENG,West Indies WI,262,241,21,2000,2700
+England ENG,Australia AUS,262,250,12,2000,2700
+England ENG,New Zealand NZ,262,252,10,2000,2700
+England ENG,South Africa SA,262,258,4,2000,2700
+England ENG,Pakistan PAK,262,258,4,2000,2700
+Pakistan PAK,Turkey TUR,258,0,258,1000,1500
+Pakistan PAK,Thailand THA,258,0,258,1000,1500
+Pakistan PAK,Eswatini SWA,258,0,258,1000,1500
+Pakistan PAK,Lesotho LES,258,0,258,1000,1500
+Pakistan PAK,Estonia EST,258,0,258,1000,1500
+Pakistan PAK,Gibraltar GIB,258,3,255,1000,1500
+Pakistan PAK,Greece GRE,258,3,255,1000,1500
+Pakistan PAK,Maldives MDV,258,5,253,1000,1500
+Pakistan PAK,Seychelles SEY,258,9,249,1000,1500
+Pakistan PAK,Bulgaria BUL,258,9,249,1000,1500
+Pakistan PAK,Samoa SAM,258,10,248,1000,1500
+Pakistan PAK,Serbia SER,258,11,247,1000,1500
+Pakistan PAK,Rwanda RWA,258,19,239,1000,1500
+Pakistan PAK,Panama PAN,258,21,237,1000,1500
+Pakistan PAK,Hungary HUN,258,22,236,1000,1500
+Pakistan PAK,Belize BIZ,258,22,236,1000,1500
+Pakistan PAK,Mozambique MOZ,258,24,234,1000,1500
+Pakistan PAK,Bahamas BAH,258,24,234,1000,1500
+Pakistan PAK,Cyprus CYP,258,26,232,1000,1500
+Pakistan PAK,Bhutan BHU,258,30,228,1000,1500
+Pakistan PAK,Sierra Leone SRL,258,33,225,1000,1500
+Pakistan PAK,Luxembourg LUX,258,34,224,1000,1500
+Pakistan PAK,Switzerland CHE,258,36,222,1000,1500
+Pakistan PAK,Malta MLT,258,36,222,1000,1500
+Pakistan PAK,Czech Republic CZE,258,41,217,1000,1500
+Pakistan PAK,Ghana GHA,258,42,216,1000,1500
+Pakistan PAK,Sweden SWE,258,43,215,1000,1500
+Pakistan PAK,Malawi MAW,258,45,213,1000,1500
+Pakistan PAK,Argentina ARG,258,48,210,1000,1500
+Pakistan PAK,Finland FIN,258,52,206,1000,1500
+Pakistan PAK,France FRA,258,52,206,1000,1500
+Pakistan PAK,Norway NOR,258,53,205,1000,1500
+Pakistan PAK,Vanuatu VAN,258,55,203,1000,1500
+Pakistan PAK,Romania ROM,258,57,201,1000,1500
+Pakistan PAK,Portugal POR,258,59,199,1200,1800
+Pakistan PAK,Botswana BOT,258,63,195,1200,1800
+Pakistan PAK,Nigeria NGR,258,64,194,1200,1800
+Pakistan PAK,Austria AUT,258,65,193,1200,1800
+Pakistan PAK,Cayman Islands CAY,258,66,192,1200,1800
+Pakistan PAK,Belgium BEL,258,67,191,1200,1800
+Pakistan PAK,Isle of Man IOM,258,68,190,1200,1800
+Pakistan PAK,Guernsey GSY,258,70,188,1200,1800
+Pakistan PAK,Denmark DEN,258,72,186,1200,1800
+Pakistan PAK,Spain ESP,258,79,179,1200,1800
+Pakistan PAK,Germany GER,258,84,174,1200,1800
+Pakistan PAK,Bermuda BRM,258,88,170,1200,1800
+Pakistan PAK,Tanzania TAN,258,90,168,1200,1800
+Pakistan PAK,Saudi Arabia SDA,258,94,164,1200,1800
+Pakistan PAK,Bahrain BRN,258,96,162,1200,1800
+Pakistan PAK,Malaysia MAS,258,106,152,1200,1800
+Pakistan PAK,Italy ITA,258,106,152,1200,1800
+Pakistan PAK,Kenya KEN,258,107,151,1200,1800
+Pakistan PAK,Singapore SIN,258,115,143,1200,1800
+Pakistan PAK,Uganda UGA,258,118,140,1200,1800
+Pakistan PAK,United States USA,258,119,139,1200,1800
+Pakistan PAK,Kuwait KUW,258,120,138,1200,1800
+Pakistan PAK,Qatar QAT,258,126,132,1200,1800
+Pakistan PAK,Jersey JSY,258,127,131,1200,1800
+Pakistan PAK,Canada CAN,258,128,130,1200,1800
+Pakistan PAK,Hong Kong HK,258,128,130,1200,1800
+Pakistan PAK,Papua New Guinea PNG,258,146,112,1200,1800
+Pakistan PAK,Netherlands NED,258,168,90,1400,2100
+Pakistan PAK,Oman OMA,258,170,88,1400,2100
+Pakistan PAK,Nepal NEP,258,180,78,1400,2100
+Pakistan PAK,Scotland SCO,258,182,76,1400,2100
+Pakistan PAK,Namibia NAM,258,183,75,1400,2100
+Pakistan PAK,UAE UAE,258,185,73,1400,2100
+Pakistan PAK,Ireland IRE,258,187,71,1400,2100
+Pakistan PAK,Zimbabwe ZIM,258,194,64,1400,2100
+Pakistan PAK,Afghanistan AFG,258,219,39,1800,2500
+Pakistan PAK,Bangladesh BAN,258,223,35,1800,2500
+Pakistan PAK,Sri Lanka SL,258,237,21,2000,2700
+Pakistan PAK,West Indies WI,258,241,17,2000,2700
+Pakistan PAK,Australia AUS,258,250,8,2000,2700
+Pakistan PAK,New Zealand NZ,258,252,6,2000,2700
+Pakistan PAK,South Africa SA,258,258,0,2000,2700
+South Africa SA,Turkey TUR,258,0,258,1000,1500
+South Africa SA,Thailand THA,258,0,258,1000,1500
+South Africa SA,Eswatini SWA,258,0,258,1000,1500
+South Africa SA,Lesotho LES,258,0,258,1000,1500
+South Africa SA,Estonia EST,258,0,258,1000,1500
+South Africa SA,Gibraltar GIB,258,3,255,1000,1500
+South Africa SA,Greece GRE,258,3,255,1000,1500
+South Africa SA,Maldives MDV,258,5,253,1000,1500
+South Africa SA,Seychelles SEY,258,9,249,1000,1500
+South Africa SA,Bulgaria BUL,258,9,249,1000,1500
+South Africa SA,Samoa SAM,258,10,248,1000,1500
+South Africa SA,Serbia SER,258,11,247,1000,1500
+South Africa SA,Rwanda RWA,258,19,239,1000,1500
+South Africa SA,Panama PAN,258,21,237,1000,1500
+South Africa SA,Hungary HUN,258,22,236,1000,1500
+South Africa SA,Belize BIZ,258,22,236,1000,1500
+South Africa SA,Mozambique MOZ,258,24,234,1000,1500
+South Africa SA,Bahamas BAH,258,24,234,1000,1500
+South Africa SA,Cyprus CYP,258,26,232,1000,1500
+South Africa SA,Bhutan BHU,258,30,228,1000,1500
+South Africa SA,Sierra Leone SRL,258,33,225,1000,1500
+South Africa SA,Luxembourg LUX,258,34,224,1000,1500
+South Africa SA,Switzerland CHE,258,36,222,1000,1500
+South Africa SA,Malta MLT,258,36,222,1000,1500
+South Africa SA,Czech Republic CZE,258,41,217,1000,1500
+South Africa SA,Ghana GHA,258,42,216,1000,1500
+South Africa SA,Sweden SWE,258,43,215,1000,1500
+South Africa SA,Malawi MAW,258,45,213,1000,1500
+South Africa SA,Argentina ARG,258,48,210,1000,1500
+South Africa SA,Finland FIN,258,52,206,1000,1500
+South Africa SA,France FRA,258,52,206,1000,1500
+South Africa SA,Norway NOR,258,53,205,1000,1500
+South Africa SA,Vanuatu VAN,258,55,203,1000,1500
+South Africa SA,Romania ROM,258,57,201,1000,1500
+South Africa SA,Portugal POR,258,59,199,1200,1800
+South Africa SA,Botswana BOT,258,63,195,1200,1800
+South Africa SA,Nigeria NGR,258,64,194,1200,1800
+South Africa SA,Austria AUT,258,65,193,1200,1800
+South Africa SA,Cayman Islands CAY,258,66,192,1200,1800
+South Africa SA,Belgium BEL,258,67,191,1200,1800
+South Africa SA,Isle of Man IOM,258,68,190,1200,1800
+South Africa SA,Guernsey GSY,258,70,188,1200,1800
+South Africa SA,Denmark DEN,258,72,186,1200,1800
+South Africa SA,Spain ESP,258,79,179,1200,1800
+South Africa SA,Germany GER,258,84,174,1200,1800
+South Africa SA,Bermuda BRM,258,88,170,1200,1800
+South Africa SA,Tanzania TAN,258,90,168,1200,1800
+South Africa SA,Saudi Arabia SDA,258,94,164,1200,1800
+South Africa SA,Bahrain BRN,258,96,162,1200,1800
+South Africa SA,Malaysia MAS,258,106,152,1200,1800
+South Africa SA,Italy ITA,258,106,152,1200,1800
+South Africa SA,Kenya KEN,258,107,151,1200,1800
+South Africa SA,Singapore SIN,258,115,143,1200,1800
+South Africa SA,Uganda UGA,258,118,140,1200,1800
+South Africa SA,United States USA,258,119,139,1200,1800
+South Africa SA,Kuwait KUW,258,120,138,1200,1800
+South Africa SA,Qatar QAT,258,126,132,1200,1800
+South Africa SA,Jersey JSY,258,127,131,1200,1800
+South Africa SA,Canada CAN,258,128,130,1200,1800
+South Africa SA,Hong Kong HK,258,128,130,1200,1800
+South Africa SA,Papua New Guinea PNG,258,146,112,1200,1800
+South Africa SA,Netherlands NED,258,168,90,1400,2100
+South Africa SA,Oman OMA,258,170,88,1400,2100
+South Africa SA,Nepal NEP,258,180,78,1400,2100
+South Africa SA,Scotland SCO,258,182,76,1400,2100
+South Africa SA,Namibia NAM,258,183,75,1400,2100
+South Africa SA,UAE UAE,258,185,73,1400,2100
+South Africa SA,Ireland IRE,258,187,71,1400,2100
+South Africa SA,Zimbabwe ZIM,258,194,64,1400,2100
+South Africa SA,Afghanistan AFG,258,219,39,1800,2500
+South Africa SA,Bangladesh BAN,258,223,35,1800,2500
+South Africa SA,Sri Lanka SL,258,237,21,2000,2700
+South Africa SA,West Indies WI,258,241,17,2000,2700
+South Africa SA,Australia AUS,258,250,8,2000,2700
+South Africa SA,New Zealand NZ,258,252,6,2000,2700
+New Zealand NZ,Turkey TUR,252,0,252,1000,1500
+New Zealand NZ,Thailand THA,252,0,252,1000,1500
+New Zealand NZ,Eswatini SWA,252,0,252,1000,1500
+New Zealand NZ,Lesotho LES,252,0,252,1000,1500
+New Zealand NZ,Estonia EST,252,0,252,1000,1500
+New Zealand NZ,Gibraltar GIB,252,3,249,1000,1500
+New Zealand NZ,Greece GRE,252,3,249,1000,1500
+New Zealand NZ,Maldives MDV,252,5,247,1000,1500
+New Zealand NZ,Seychelles SEY,252,9,243,1000,1500
+New Zealand NZ,Bulgaria BUL,252,9,243,1000,1500
+New Zealand NZ,Samoa SAM,252,10,242,1000,1500
+New Zealand NZ,Serbia SER,252,11,241,1000,1500
+New Zealand NZ,Rwanda RWA,252,19,233,1000,1500
+New Zealand NZ,Panama PAN,252,21,231,1000,1500
+New Zealand NZ,Hungary HUN,252,22,230,1000,1500
+New Zealand NZ,Belize BIZ,252,22,230,1000,1500
+New Zealand NZ,Mozambique MOZ,252,24,228,1000,1500
+New Zealand NZ,Bahamas BAH,252,24,228,1000,1500
+New Zealand NZ,Cyprus CYP,252,26,226,1000,1500
+New Zealand NZ,Bhutan BHU,252,30,222,1000,1500
+New Zealand NZ,Sierra Leone SRL,252,33,219,1000,1500
+New Zealand NZ,Luxembourg LUX,252,34,218,1000,1500
+New Zealand NZ,Switzerland CHE,252,36,216,1000,1500
+New Zealand NZ,Malta MLT,252,36,216,1000,1500
+New Zealand NZ,Czech Republic CZE,252,41,211,1000,1500
+New Zealand NZ,Ghana GHA,252,42,210,1000,1500
+New Zealand NZ,Sweden SWE,252,43,209,1000,1500
+New Zealand NZ,Malawi MAW,252,45,207,1000,1500
+New Zealand NZ,Argentina ARG,252,48,204,1000,1500
+New Zealand NZ,Finland FIN,252,52,200,1000,1500
+New Zealand NZ,France FRA,252,52,200,1000,1500
+New Zealand NZ,Norway NOR,252,53,199,1200,1800
+New Zealand NZ,Vanuatu VAN,252,55,197,1200,1800
+New Zealand NZ,Romania ROM,252,57,195,1200,1800
+New Zealand NZ,Portugal POR,252,59,193,1200,1800
+New Zealand NZ,Botswana BOT,252,63,189,1200,1800
+New Zealand NZ,Nigeria NGR,252,64,188,1200,1800
+New Zealand NZ,Austria AUT,252,65,187,1200,1800
+New Zealand NZ,Cayman Islands CAY,252,66,186,1200,1800
+New Zealand NZ,Belgium BEL,252,67,185,1200,1800
+New Zealand NZ,Isle of Man IOM,252,68,184,1200,1800
+New Zealand NZ,Guernsey GSY,252,70,182,1200,1800
+New Zealand NZ,Denmark DEN,252,72,180,1200,1800
+New Zealand NZ,Spain ESP,252,79,173,1200,1800
+New Zealand NZ,Germany GER,252,84,168,1200,1800
+New Zealand NZ,Bermuda BRM,252,88,164,1200,1800
+New Zealand NZ,Tanzania TAN,252,90,162,1200,1800
+New Zealand NZ,Saudi Arabia SDA,252,94,158,1200,1800
+New Zealand NZ,Bahrain BRN,252,96,156,1200,1800
+New Zealand NZ,Malaysia MAS,252,106,146,1200,1800
+New Zealand NZ,Italy ITA,252,106,146,1200,1800
+New Zealand NZ,Kenya KEN,252,107,145,1200,1800
+New Zealand NZ,Singapore SIN,252,115,137,1200,1800
+New Zealand NZ,Uganda UGA,252,118,134,1200,1800
+New Zealand NZ,United States USA,252,119,133,1200,1800
+New Zealand NZ,Kuwait KUW,252,120,132,1200,1800
+New Zealand NZ,Qatar QAT,252,126,126,1200,1800
+New Zealand NZ,Jersey JSY,252,127,125,1200,1800
+New Zealand NZ,Canada CAN,252,128,124,1200,1800
+New Zealand NZ,Hong Kong HK,252,128,124,1200,1800
+New Zealand NZ,Papua New Guinea PNG,252,146,106,1200,1800
+New Zealand NZ,Netherlands NED,252,168,84,1400,2100
+New Zealand NZ,Oman OMA,252,170,82,1400,2100
+New Zealand NZ,Nepal NEP,252,180,72,1400,2100
+New Zealand NZ,Scotland SCO,252,182,70,1400,2100
+New Zealand NZ,Namibia NAM,252,183,69,1400,2100
+New Zealand NZ,UAE UAE,252,185,67,1400,2100
+New Zealand NZ,Ireland IRE,252,187,65,1400,2100
+New Zealand NZ,Zimbabwe ZIM,252,194,58,1400,2100
+New Zealand NZ,Afghanistan AFG,252,219,33,1800,2500
+New Zealand NZ,Bangladesh BAN,252,223,29,1800,2500
+New Zealand NZ,Sri Lanka SL,252,237,15,2000,2700
+New Zealand NZ,West Indies WI,252,241,11,2000,2700
+New Zealand NZ,Australia AUS,252,250,2,2000,2700
+Australia AUS,Turkey TUR,250,0,250,1000,1500
+Australia AUS,Thailand THA,250,0,250,1000,1500
+Australia AUS,Eswatini SWA,250,0,250,1000,1500
+Australia AUS,Lesotho LES,250,0,250,1000,1500
+Australia AUS,Estonia EST,250,0,250,1000,1500
+Australia AUS,Gibraltar GIB,250,3,247,1000,1500
+Australia AUS,Greece GRE,250,3,247,1000,1500
+Australia AUS,Maldives MDV,250,5,245,1000,1500
+Australia AUS,Seychelles SEY,250,9,241,1000,1500
+Australia AUS,Bulgaria BUL,250,9,241,1000,1500
+Australia AUS,Samoa SAM,250,10,240,1000,1500
+Australia AUS,Serbia SER,250,11,239,1000,1500
+Australia AUS,Rwanda RWA,250,19,231,1000,1500
+Australia AUS,Panama PAN,250,21,229,1000,1500
+Australia AUS,Hungary HUN,250,22,228,1000,1500
+Australia AUS,Belize BIZ,250,22,228,1000,1500
+Australia AUS,Mozambique MOZ,250,24,226,1000,1500
+Australia AUS,Bahamas BAH,250,24,226,1000,1500
+Australia AUS,Cyprus CYP,250,26,224,1000,1500
+Australia AUS,Bhutan BHU,250,30,220,1000,1500
+Australia AUS,Sierra Leone SRL,250,33,217,1000,1500
+Australia AUS,Luxembourg LUX,250,34,216,1000,1500
+Australia AUS,Switzerland CHE,250,36,214,1000,1500
+Australia AUS,Malta MLT,250,36,214,1000,1500
+Australia AUS,Czech Republic CZE,250,41,209,1000,1500
+Australia AUS,Ghana GHA,250,42,208,1000,1500
+Australia AUS,Sweden SWE,250,43,207,1000,1500
+Australia AUS,Malawi MAW,250,45,205,1000,1500
+Australia AUS,Argentina ARG,250,48,202,1000,1500
+Australia AUS,Finland FIN,250,52,198,1200,1800
+Australia AUS,France FRA,250,52,198,1200,1800
+Australia AUS,Norway NOR,250,53,197,1200,1800
+Australia AUS,Vanuatu VAN,250,55,195,1200,1800
+Australia AUS,Romania ROM,250,57,193,1200,1800
+Australia AUS,Portugal POR,250,59,191,1200,1800
+Australia AUS,Botswana BOT,250,63,187,1200,1800
+Australia AUS,Nigeria NGR,250,64,186,1200,1800
+Australia AUS,Austria AUT,250,65,185,1200,1800
+Australia AUS,Cayman Islands CAY,250,66,184,1200,1800
+Australia AUS,Belgium BEL,250,67,183,1200,1800
+Australia AUS,Isle of Man IOM,250,68,182,1200,1800
+Australia AUS,Guernsey GSY,250,70,180,1200,1800
+Australia AUS,Denmark DEN,250,72,178,1200,1800
+Australia AUS,Spain ESP,250,79,171,1200,1800
+Australia AUS,Germany GER,250,84,166,1200,1800
+Australia AUS,Bermuda BRM,250,88,162,1200,1800
+Australia AUS,Tanzania TAN,250,90,160,1200,1800
+Australia AUS,Saudi Arabia SDA,250,94,156,1200,1800
+Australia AUS,Bahrain BRN,250,96,154,1200,1800
+Australia AUS,Malaysia MAS,250,106,144,1200,1800
+Australia AUS,Italy ITA,250,106,144,1200,1800
+Australia AUS,Kenya KEN,250,107,143,1200,1800
+Australia AUS,Singapore SIN,250,115,135,1200,1800
+Australia AUS,Uganda UGA,250,118,132,1200,1800
+Australia AUS,United States USA,250,119,131,1200,1800
+Australia AUS,Kuwait KUW,250,120,130,1200,1800
+Australia AUS,Qatar QAT,250,126,124,1200,1800
+Australia AUS,Jersey JSY,250,127,123,1200,1800
+Australia AUS,Canada CAN,250,128,122,1200,1800
+Australia AUS,Hong Kong HK,250,128,122,1200,1800
+Australia AUS,Papua New Guinea PNG,250,146,104,1200,1800
+Australia AUS,Netherlands NED,250,168,82,1400,2100
+Australia AUS,Oman OMA,250,170,80,1400,2100
+Australia AUS,Nepal NEP,250,180,70,1400,2100
+Australia AUS,Scotland SCO,250,182,68,1400,2100
+Australia AUS,Namibia NAM,250,183,67,1400,2100
+Australia AUS,UAE UAE,250,185,65,1400,2100
+Australia AUS,Ireland IRE,250,187,63,1400,2100
+Australia AUS,Zimbabwe ZIM,250,194,56,1400,2100
+Australia AUS,Afghanistan AFG,250,219,31,1800,2500
+Australia AUS,Bangladesh BAN,250,223,27,1800,2500
+Australia AUS,Sri Lanka SL,250,237,13,2000,2700
+Australia AUS,West Indies WI,250,241,9,2000,2700
+West Indies WI,Turkey TUR,241,0,241,1000,1500
+West Indies WI,Thailand THA,241,0,241,1000,1500
+West Indies WI,Eswatini SWA,241,0,241,1000,1500
+West Indies WI,Lesotho LES,241,0,241,1000,1500
+West Indies WI,Estonia EST,241,0,241,1000,1500
+West Indies WI,Gibraltar GIB,241,3,238,1000,1500
+West Indies WI,Greece GRE,241,3,238,1000,1500
+West Indies WI,Maldives MDV,241,5,236,1000,1500
+West Indies WI,Seychelles SEY,241,9,232,1000,1500
+West Indies WI,Bulgaria BUL,241,9,232,1000,1500
+West Indies WI,Samoa SAM,241,10,231,1000,1500
+West Indies WI,Serbia SER,241,11,230,1000,1500
+West Indies WI,Rwanda RWA,241,19,222,1000,1500
+West Indies WI,Panama PAN,241,21,220,1000,1500
+West Indies WI,Hungary HUN,241,22,219,1000,1500
+West Indies WI,Belize BIZ,241,22,219,1000,1500
+West Indies WI,Mozambique MOZ,241,24,217,1000,1500
+West Indies WI,Bahamas BAH,241,24,217,1000,1500
+West Indies WI,Cyprus CYP,241,26,215,1000,1500
+West Indies WI,Bhutan BHU,241,30,211,1000,1500
+West Indies WI,Sierra Leone SRL,241,33,208,1000,1500
+West Indies WI,Luxembourg LUX,241,34,207,1000,1500
+West Indies WI,Switzerland CHE,241,36,205,1000,1500
+West Indies WI,Malta MLT,241,36,205,1000,1500
+West Indies WI,Czech Republic CZE,241,41,200,1000,1500
+West Indies WI,Ghana GHA,241,42,199,1200,1800
+West Indies WI,Sweden SWE,241,43,198,1200,1800
+West Indies WI,Malawi MAW,241,45,196,1200,1800
+West Indies WI,Argentina ARG,241,48,193,1200,1800
+West Indies WI,Finland FIN,241,52,189,1200,1800
+West Indies WI,France FRA,241,52,189,1200,1800
+West Indies WI,Norway NOR,241,53,188,1200,1800
+West Indies WI,Vanuatu VAN,241,55,186,1200,1800
+West Indies WI,Romania ROM,241,57,184,1200,1800
+West Indies WI,Portugal POR,241,59,182,1200,1800
+West Indies WI,Botswana BOT,241,63,178,1200,1800
+West Indies WI,Nigeria NGR,241,64,177,1200,1800
+West Indies WI,Austria AUT,241,65,176,1200,1800
+West Indies WI,Cayman Islands CAY,241,66,175,1200,1800
+West Indies WI,Belgium BEL,241,67,174,1200,1800
+West Indies WI,Isle of Man IOM,241,68,173,1200,1800
+West Indies WI,Guernsey GSY,241,70,171,1200,1800
+West Indies WI,Denmark DEN,241,72,169,1200,1800
+West Indies WI,Spain ESP,241,79,162,1200,1800
+West Indies WI,Germany GER,241,84,157,1200,1800
+West Indies WI,Bermuda BRM,241,88,153,1200,1800
+West Indies WI,Tanzania TAN,241,90,151,1200,1800
+West Indies WI,Saudi Arabia SDA,241,94,147,1200,1800
+West Indies WI,Bahrain BRN,241,96,145,1200,1800
+West Indies WI,Malaysia MAS,241,106,135,1200,1800
+West Indies WI,Italy ITA,241,106,135,1200,1800
+West Indies WI,Kenya KEN,241,107,134,1200,1800
+West Indies WI,Singapore SIN,241,115,126,1200,1800
+West Indies WI,Uganda UGA,241,118,123,1200,1800
+West Indies WI,United States USA,241,119,122,1200,1800
+West Indies WI,Kuwait KUW,241,120,121,1200,1800
+West Indies WI,Qatar QAT,241,126,115,1200,1800
+West Indies WI,Jersey JSY,241,127,114,1200,1800
+West Indies WI,Canada CAN,241,128,113,1200,1800
+West Indies WI,Hong Kong HK,241,128,113,1200,1800
+West Indies WI,Papua New Guinea PNG,241,146,95,1400,2100
+West Indies WI,Netherlands NED,241,168,73,1400,2100
+West Indies WI,Oman OMA,241,170,71,1400,2100
+West Indies WI,Nepal NEP,241,180,61,1400,2100
+West Indies WI,Scotland SCO,241,182,59,1400,2100
+West Indies WI,Namibia NAM,241,183,58,1400,2100
+West Indies WI,UAE UAE,241,185,56,1400,2100
+West Indies WI,Ireland IRE,241,187,54,1400,2100
+West Indies WI,Zimbabwe ZIM,241,194,47,1800,2500
+West Indies WI,Afghanistan AFG,241,219,22,2000,2700
+West Indies WI,Bangladesh BAN,241,223,18,2000,2700
+West Indies WI,Sri Lanka SL,241,237,4,2000,2700
+Sri Lanka SL,Turkey TUR,237,0,237,1000,1500
+Sri Lanka SL,Thailand THA,237,0,237,1000,1500
+Sri Lanka SL,Eswatini SWA,237,0,237,1000,1500
+Sri Lanka SL,Lesotho LES,237,0,237,1000,1500
+Sri Lanka SL,Estonia EST,237,0,237,1000,1500
+Sri Lanka SL,Gibraltar GIB,237,3,234,1000,1500
+Sri Lanka SL,Greece GRE,237,3,234,1000,1500
+Sri Lanka SL,Maldives MDV,237,5,232,1000,1500
+Sri Lanka SL,Seychelles SEY,237,9,228,1000,1500
+Sri Lanka SL,Bulgaria BUL,237,9,228,1000,1500
+Sri Lanka SL,Samoa SAM,237,10,227,1000,1500
+Sri Lanka SL,Serbia SER,237,11,226,1000,1500
+Sri Lanka SL,Rwanda RWA,237,19,218,1000,1500
+Sri Lanka SL,Panama PAN,237,21,216,1000,1500
+Sri Lanka SL,Hungary HUN,237,22,215,1000,1500
+Sri Lanka SL,Belize BIZ,237,22,215,1000,1500
+Sri Lanka SL,Mozambique MOZ,237,24,213,1000,1500
+Sri Lanka SL,Bahamas BAH,237,24,213,1000,1500
+Sri Lanka SL,Cyprus CYP,237,26,211,1000,1500
+Sri Lanka SL,Bhutan BHU,237,30,207,1000,1500
+Sri Lanka SL,Sierra Leone SRL,237,33,204,1000,1500
+Sri Lanka SL,Luxembourg LUX,237,34,203,1000,1500
+Sri Lanka SL,Switzerland CHE,237,36,201,1000,1500
+Sri Lanka SL,Malta MLT,237,36,201,1000,1500
+Sri Lanka SL,Czech Republic CZE,237,41,196,1200,1800
+Sri Lanka SL,Ghana GHA,237,42,195,1200,1800
+Sri Lanka SL,Sweden SWE,237,43,194,1200,1800
+Sri Lanka SL,Malawi MAW,237,45,192,1200,1800
+Sri Lanka SL,Argentina ARG,237,48,189,1200,1800
+Sri Lanka SL,Finland FIN,237,52,185,1200,1800
+Sri Lanka SL,France FRA,237,52,185,1200,1800
+Sri Lanka SL,Norway NOR,237,53,184,1200,1800
+Sri Lanka SL,Vanuatu VAN,237,55,182,1200,1800
+Sri Lanka SL,Romania ROM,237,57,180,1200,1800
+Sri Lanka SL,Portugal POR,237,59,178,1200,1800
+Sri Lanka SL,Botswana BOT,237,63,174,1200,1800
+Sri Lanka SL,Nigeria NGR,237,64,173,1200,1800
+Sri Lanka SL,Austria AUT,237,65,172,1200,1800
+Sri Lanka SL,Cayman Islands CAY,237,66,171,1200,1800
+Sri Lanka SL,Belgium BEL,237,67,170,1200,1800
+Sri Lanka SL,Isle of Man IOM,237,68,169,1200,1800
+Sri Lanka SL,Guernsey GSY,237,70,167,1200,1800
+Sri Lanka SL,Denmark DEN,237,72,165,1200,1800
+Sri Lanka SL,Spain ESP,237,79,158,1200,1800
+Sri Lanka SL,Germany GER,237,84,153,1200,1800
+Sri Lanka SL,Bermuda BRM,237,88,149,1200,1800
+Sri Lanka SL,Tanzania TAN,237,90,147,1200,1800
+Sri Lanka SL,Saudi Arabia SDA,237,94,143,1200,1800
+Sri Lanka SL,Bahrain BRN,237,96,141,1200,1800
+Sri Lanka SL,Malaysia MAS,237,106,131,1200,1800
+Sri Lanka SL,Italy ITA,237,106,131,1200,1800
+Sri Lanka SL,Kenya KEN,237,107,130,1200,1800
+Sri Lanka SL,Singapore SIN,237,115,122,1200,1800
+Sri Lanka SL,Uganda UGA,237,118,119,1200,1800
+Sri Lanka SL,United States USA,237,119,118,1200,1800
+Sri Lanka SL,Kuwait KUW,237,120,117,1200,1800
+Sri Lanka SL,Qatar QAT,237,126,111,1200,1800
+Sri Lanka SL,Jersey JSY,237,127,110,1200,1800
+Sri Lanka SL,Canada CAN,237,128,109,1200,1800
+Sri Lanka SL,Hong Kong HK,237,128,109,1200,1800
+Sri Lanka SL,Papua New Guinea PNG,237,146,91,1400,2100
+Sri Lanka SL,Netherlands NED,237,168,69,1400,2100
+Sri Lanka SL,Oman OMA,237,170,67,1400,2100
+Sri Lanka SL,Nepal NEP,237,180,57,1400,2100
+Sri Lanka SL,Scotland SCO,237,182,55,1400,2100
+Sri Lanka SL,Namibia NAM,237,183,54,1400,2100
+Sri Lanka SL,UAE UAE,237,185,52,1400,2100
+Sri Lanka SL,Ireland IRE,237,187,50,1400,2100
+Sri Lanka SL,Zimbabwe ZIM,237,194,43,1800,2500
+Sri Lanka SL,Afghanistan AFG,237,219,18,2000,2800
+Sri Lanka SL,Bangladesh BAN,237,223,14,2000,2800
+Bangladesh BAN,Turkey TUR,223,0,223,1000,1500
+Bangladesh BAN,Thailand THA,223,0,223,1000,1500
+Bangladesh BAN,Eswatini SWA,223,0,223,1000,1500
+Bangladesh BAN,Lesotho LES,223,0,223,1000,1500
+Bangladesh BAN,Estonia EST,223,0,223,1000,1500
+Bangladesh BAN,Gibraltar GIB,223,3,220,1000,1500
+Bangladesh BAN,Greece GRE,223,3,220,1000,1500
+Bangladesh BAN,Maldives MDV,223,5,218,1000,1500
+Bangladesh BAN,Seychelles SEY,223,9,214,1000,1500
+Bangladesh BAN,Bulgaria BUL,223,9,214,1000,1500
+Bangladesh BAN,Samoa SAM,223,10,213,1000,1500
+Bangladesh BAN,Serbia SER,223,11,212,1000,1500
+Bangladesh BAN,Rwanda RWA,223,19,204,1000,1500
+Bangladesh BAN,Panama PAN,223,21,202,1000,1500
+Bangladesh BAN,Hungary HUN,223,22,201,1000,1500
+Bangladesh BAN,Belize BIZ,223,22,201,1000,1500
+Bangladesh BAN,Mozambique MOZ,223,24,199,1200,1800
+Bangladesh BAN,Bahamas BAH,223,24,199,1200,1800
+Bangladesh BAN,Cyprus CYP,223,26,197,1200,1800
+Bangladesh BAN,Bhutan BHU,223,30,193,1200,1800
+Bangladesh BAN,Sierra Leone SRL,223,33,190,1200,1800
+Bangladesh BAN,Luxembourg LUX,223,34,189,1200,1800
+Bangladesh BAN,Switzerland CHE,223,36,187,1200,1800
+Bangladesh BAN,Malta MLT,223,36,187,1200,1800
+Bangladesh BAN,Czech Republic CZE,223,41,182,1200,1800
+Bangladesh BAN,Ghana GHA,223,42,181,1200,1800
+Bangladesh BAN,Sweden SWE,223,43,180,1200,1800
+Bangladesh BAN,Malawi MAW,223,45,178,1200,1800
+Bangladesh BAN,Argentina ARG,223,48,175,1200,1800
+Bangladesh BAN,Finland FIN,223,52,171,1200,1800
+Bangladesh BAN,France FRA,223,52,171,1200,1800
+Bangladesh BAN,Norway NOR,223,53,170,1200,1800
+Bangladesh BAN,Vanuatu VAN,223,55,168,1200,1800
+Bangladesh BAN,Romania ROM,223,57,166,1200,1800
+Bangladesh BAN,Portugal POR,223,59,164,1200,1800
+Bangladesh BAN,Botswana BOT,223,63,160,1200,1800
+Bangladesh BAN,Nigeria NGR,223,64,159,1200,1800
+Bangladesh BAN,Austria AUT,223,65,158,1200,1800
+Bangladesh BAN,Cayman Islands CAY,223,66,157,1200,1800
+Bangladesh BAN,Belgium BEL,223,67,156,1200,1800
+Bangladesh BAN,Isle of Man IOM,223,68,155,1200,1800
+Bangladesh BAN,Guernsey GSY,223,70,153,1200,1800
+Bangladesh BAN,Denmark DEN,223,72,151,1200,1800
+Bangladesh BAN,Spain ESP,223,79,144,1200,1800
+Bangladesh BAN,Germany GER,223,84,139,1200,1800
+Bangladesh BAN,Bermuda BRM,223,88,135,1200,1800
+Bangladesh BAN,Tanzania TAN,223,90,133,1200,1800
+Bangladesh BAN,Saudi Arabia SDA,223,94,129,1200,1800
+Bangladesh BAN,Bahrain BRN,223,96,127,1200,1800
+Bangladesh BAN,Malaysia MAS,223,106,117,1200,1800
+Bangladesh BAN,Italy ITA,223,106,117,1200,1800
+Bangladesh BAN,Kenya KEN,223,107,116,1200,1800
+Bangladesh BAN,Singapore SIN,223,115,108,1200,1800
+Bangladesh BAN,Uganda UGA,223,118,105,1200,1800
+Bangladesh BAN,United States USA,223,119,104,1200,1800
+Bangladesh BAN,Kuwait KUW,223,120,103,1200,1800
+Bangladesh BAN,Qatar QAT,223,126,97,1400,2100
+Bangladesh BAN,Jersey JSY,223,127,96,1400,2100
+Bangladesh BAN,Canada CAN,223,128,95,1400,2100
+Bangladesh BAN,Hong Kong HK,223,128,95,1400,2100
+Bangladesh BAN,Papua New Guinea PNG,223,146,77,1400,2100
+Bangladesh BAN,Netherlands NED,223,168,55,1400,2100
+Bangladesh BAN,Oman OMA,223,170,53,1400,2100
+Bangladesh BAN,Nepal NEP,223,180,43,1800,2500
+Bangladesh BAN,Scotland SCO,223,182,41,1800,2500
+Bangladesh BAN,Namibia NAM,223,183,40,1800,2500
+Bangladesh BAN,UAE UAE,223,185,38,1800,2500
+Bangladesh BAN,Ireland IRE,223,187,36,1800,2500
+Bangladesh BAN,Zimbabwe ZIM,223,194,29,1800,2500
+Bangladesh BAN,Afghanistan AFG,223,219,4,2000,2700
+Afghanistan AFG,Turkey TUR,219,0,219,1000,1500
+Afghanistan AFG,Thailand THA,219,0,219,1000,1500
+Afghanistan AFG,Eswatini SWA,219,0,219,1000,1500
+Afghanistan AFG,Lesotho LES,219,0,219,1000,1500
+Afghanistan AFG,Estonia EST,219,0,219,1000,1500
+Afghanistan AFG,Gibraltar GIB,219,3,216,1000,1500
+Afghanistan AFG,Greece GRE,219,3,216,1000,1500
+Afghanistan AFG,Maldives MDV,219,5,214,1000,1500
+Afghanistan AFG,Seychelles SEY,219,9,210,1000,1500
+Afghanistan AFG,Bulgaria BUL,219,9,210,1000,1500
+Afghanistan AFG,Samoa SAM,219,10,209,1000,1500
+Afghanistan AFG,Serbia SER,219,11,208,1000,1500
+Afghanistan AFG,Rwanda RWA,219,19,200,1000,1500
+Afghanistan AFG,Panama PAN,219,21,198,1200,1800
+Afghanistan AFG,Hungary HUN,219,22,197,1200,1800
+Afghanistan AFG,Belize BIZ,219,22,197,1200,1800
+Afghanistan AFG,Mozambique MOZ,219,24,195,1200,1800
+Afghanistan AFG,Bahamas BAH,219,24,195,1200,1800
+Afghanistan AFG,Cyprus CYP,219,26,193,1200,1800
+Afghanistan AFG,Bhutan BHU,219,30,189,1200,1800
+Afghanistan AFG,Sierra Leone SRL,219,33,186,1200,1800
+Afghanistan AFG,Luxembourg LUX,219,34,185,1200,1800
+Afghanistan AFG,Switzerland CHE,219,36,183,1200,1800
+Afghanistan AFG,Malta MLT,219,36,183,1200,1800
+Afghanistan AFG,Czech Republic CZE,219,41,178,1200,1800
+Afghanistan AFG,Ghana GHA,219,42,177,1200,1800
+Afghanistan AFG,Sweden SWE,219,43,176,1200,1800
+Afghanistan AFG,Malawi MAW,219,45,174,1200,1800
+Afghanistan AFG,Argentina ARG,219,48,171,1200,1800
+Afghanistan AFG,Finland FIN,219,52,167,1200,1800
+Afghanistan AFG,France FRA,219,52,167,1200,1800
+Afghanistan AFG,Norway NOR,219,53,166,1200,1800
+Afghanistan AFG,Vanuatu VAN,219,55,164,1200,1800
+Afghanistan AFG,Romania ROM,219,57,162,1200,1800
+Afghanistan AFG,Portugal POR,219,59,160,1200,1800
+Afghanistan AFG,Botswana BOT,219,63,156,1200,1800
+Afghanistan AFG,Nigeria NGR,219,64,155,1200,1800
+Afghanistan AFG,Austria AUT,219,65,154,1200,1800
+Afghanistan AFG,Cayman Islands CAY,219,66,153,1200,1800
+Afghanistan AFG,Belgium BEL,219,67,152,1200,1800
+Afghanistan AFG,Isle of Man IOM,219,68,151,1200,1800
+Afghanistan AFG,Guernsey GSY,219,70,149,1200,1800
+Afghanistan AFG,Denmark DEN,219,72,147,1200,1800
+Afghanistan AFG,Spain ESP,219,79,140,1200,1800
+Afghanistan AFG,Germany GER,219,84,135,1200,1800
+Afghanistan AFG,Bermuda BRM,219,88,131,1200,1800
+Afghanistan AFG,Tanzania TAN,219,90,129,1200,1800
+Afghanistan AFG,Saudi Arabia SDA,219,94,125,1200,1800
+Afghanistan AFG,Bahrain BRN,219,96,123,1200,1800
+Afghanistan AFG,Malaysia MAS,219,106,113,1200,1800
+Afghanistan AFG,Italy ITA,219,106,113,1200,1800
+Afghanistan AFG,Kenya KEN,219,107,112,1200,1800
+Afghanistan AFG,Singapore SIN,219,115,104,1200,1800
+Afghanistan AFG,Uganda UGA,219,118,101,1200,1800
+Afghanistan AFG,United States USA,219,119,100,1200,1800
+Afghanistan AFG,Kuwait KUW,219,120,99,1400,2100
+Afghanistan AFG,Qatar QAT,219,126,93,1400,2100
+Afghanistan AFG,Jersey JSY,219,127,92,1400,2100
+Afghanistan AFG,Canada CAN,219,128,91,1400,2100
+Afghanistan AFG,Hong Kong HK,219,128,91,1400,2100
+Afghanistan AFG,Papua New Guinea PNG,219,146,73,1400,2100
+Afghanistan AFG,Netherlands NED,219,168,51,1400,2100
+Afghanistan AFG,Oman OMA,219,170,49,1800,2500
+Afghanistan AFG,Nepal NEP,219,180,39,1800,2500
+Afghanistan AFG,Scotland SCO,219,182,37,1800,2500
+Afghanistan AFG,Namibia NAM,219,183,36,1800,2500
+Afghanistan AFG,UAE UAE,219,185,34,1800,2500
+Afghanistan AFG,Ireland IRE,219,187,32,1800,2500
+Afghanistan AFG,Zimbabwe ZIM,219,194,25,1800,2500
+Zimbabwe ZIM,Turkey TUR,194,0,194,1000,1500
+Zimbabwe ZIM,Thailand THA,194,0,194,1000,1500
+Zimbabwe ZIM,Eswatini SWA,194,0,194,1000,1500
+Zimbabwe ZIM,Lesotho LES,194,0,194,1000,1500
+Zimbabwe ZIM,Estonia EST,194,0,194,1000,1500
+Zimbabwe ZIM,Gibraltar GIB,194,3,191,1000,1500
+Zimbabwe ZIM,Greece GRE,194,3,191,1000,1500
+Zimbabwe ZIM,Maldives MDV,194,5,189,1000,1500
+Zimbabwe ZIM,Seychelles SEY,194,9,185,1000,1500
+Zimbabwe ZIM,Bulgaria BUL,194,9,185,1000,1500
+Zimbabwe ZIM,Samoa SAM,194,10,184,1000,1500
+Zimbabwe ZIM,Serbia SER,194,11,183,1000,1500
+Zimbabwe ZIM,Rwanda RWA,194,19,175,1000,1500
+Zimbabwe ZIM,Panama PAN,194,21,173,1000,1500
+Zimbabwe ZIM,Hungary HUN,194,22,172,1000,1500
+Zimbabwe ZIM,Belize BIZ,194,22,172,1000,1500
+Zimbabwe ZIM,Mozambique MOZ,194,24,170,1000,1500
+Zimbabwe ZIM,Bahamas BAH,194,24,170,1000,1500
+Zimbabwe ZIM,Cyprus CYP,194,26,168,1000,1500
+Zimbabwe ZIM,Bhutan BHU,194,30,164,1000,1500
+Zimbabwe ZIM,Sierra Leone SRL,194,33,161,1000,1500
+Zimbabwe ZIM,Luxembourg LUX,194,34,160,1000,1500
+Zimbabwe ZIM,Switzerland CHE,194,36,158,1000,1500
+Zimbabwe ZIM,Malta MLT,194,36,158,1000,1500
+Zimbabwe ZIM,Czech Republic CZE,194,41,153,1000,1500
+Zimbabwe ZIM,Ghana GHA,194,42,152,1000,1500
+Zimbabwe ZIM,Sweden SWE,194,43,151,1000,1500
+Zimbabwe ZIM,Malawi MAW,194,45,149,1000,1500
+Zimbabwe ZIM,Argentina ARG,194,48,146,1000,1500
+Zimbabwe ZIM,Finland FIN,194,52,142,1000,1500
+Zimbabwe ZIM,France FRA,194,52,142,1000,1500
+Zimbabwe ZIM,Norway NOR,194,53,141,1000,1500
+Zimbabwe ZIM,Vanuatu VAN,194,55,139,1000,1500
+Zimbabwe ZIM,Romania ROM,194,57,137,1000,1500
+Zimbabwe ZIM,Portugal POR,194,59,135,1000,1500
+Zimbabwe ZIM,Botswana BOT,194,63,131,1000,1500
+Zimbabwe ZIM,Nigeria NGR,194,64,130,1000,1500
+Zimbabwe ZIM,Austria AUT,194,65,129,1000,1500
+Zimbabwe ZIM,Cayman Islands CAY,194,66,128,1000,1500
+Zimbabwe ZIM,Belgium BEL,194,67,127,1000,1500
+Zimbabwe ZIM,Isle of Man IOM,194,68,126,1000,1500
+Zimbabwe ZIM,Guernsey GSY,194,70,124,1000,1500
+Zimbabwe ZIM,Denmark DEN,194,72,122,1000,1500
+Zimbabwe ZIM,Spain ESP,194,79,115,1000,1500
+Zimbabwe ZIM,Germany GER,194,84,110,1000,1500
+Zimbabwe ZIM,Bermuda BRM,194,88,106,1000,1500
+Zimbabwe ZIM,Tanzania TAN,194,90,104,1000,1500
+Zimbabwe ZIM,Saudi Arabia SDA,194,94,100,1000,1500
+Zimbabwe ZIM,Bahrain BRN,194,96,98,1200,1800
+Zimbabwe ZIM,Malaysia MAS,194,106,88,1200,1800
+Zimbabwe ZIM,Italy ITA,194,106,88,1200,1800
+Zimbabwe ZIM,Kenya KEN,194,107,87,1200,1800
+Zimbabwe ZIM,Singapore SIN,194,115,79,1200,1800
+Zimbabwe ZIM,Uganda UGA,194,118,76,1200,1800
+Zimbabwe ZIM,United States USA,194,119,75,1200,1800
+Zimbabwe ZIM,Kuwait KUW,194,120,74,1200,1800
+Zimbabwe ZIM,Qatar QAT,194,126,68,1200,1800
+Zimbabwe ZIM,Jersey JSY,194,127,67,1200,1800
+Zimbabwe ZIM,Canada CAN,194,128,66,1200,1800
+Zimbabwe ZIM,Hong Kong HK,194,128,66,1200,1800
+Zimbabwe ZIM,Papua New Guinea PNG,194,146,48,1400,2100
+Zimbabwe ZIM,Netherlands NED,194,168,26,1400,2100
+Zimbabwe ZIM,Oman OMA,194,170,24,1400,2100
+Zimbabwe ZIM,Nepal NEP,194,180,14,1400,2100
+Zimbabwe ZIM,Scotland SCO,194,182,12,1400,2100
+Zimbabwe ZIM,Namibia NAM,194,183,11,1400,2100
+Zimbabwe ZIM,UAE UAE,194,185,9,1400,2100
+Zimbabwe ZIM,Ireland IRE,194,187,7,1400,2100
+Ireland IRE,Turkey TUR,187,0,187,1000,1500
+Ireland IRE,Thailand THA,187,0,187,1000,1500
+Ireland IRE,Eswatini SWA,187,0,187,1000,1500
+Ireland IRE,Lesotho LES,187,0,187,1000,1500
+Ireland IRE,Estonia EST,187,0,187,1000,1500
+Ireland IRE,Gibraltar GIB,187,3,184,1000,1500
+Ireland IRE,Greece GRE,187,3,184,1000,1500
+Ireland IRE,Maldives MDV,187,5,182,1000,1500
+Ireland IRE,Seychelles SEY,187,9,178,1000,1500
+Ireland IRE,Bulgaria BUL,187,9,178,1000,1500
+Ireland IRE,Samoa SAM,187,10,177,1000,1500
+Ireland IRE,Serbia SER,187,11,176,1000,1500
+Ireland IRE,Rwanda RWA,187,19,168,1000,1500
+Ireland IRE,Panama PAN,187,21,166,1000,1500
+Ireland IRE,Hungary HUN,187,22,165,1000,1500
+Ireland IRE,Belize BIZ,187,22,165,1000,1500
+Ireland IRE,Mozambique MOZ,187,24,163,1000,1500
+Ireland IRE,Bahamas BAH,187,24,163,1000,1500
+Ireland IRE,Cyprus CYP,187,26,161,1000,1500
+Ireland IRE,Bhutan BHU,187,30,157,1000,1500
+Ireland IRE,Sierra Leone SRL,187,33,154,1000,1500
+Ireland IRE,Luxembourg LUX,187,34,153,1000,1500
+Ireland IRE,Switzerland CHE,187,36,151,1000,1500
+Ireland IRE,Malta MLT,187,36,151,1000,1500
+Ireland IRE,Czech Republic CZE,187,41,146,1000,1500
+Ireland IRE,Ghana GHA,187,42,145,1000,1500
+Ireland IRE,Sweden SWE,187,43,144,1000,1500
+Ireland IRE,Malawi MAW,187,45,142,1000,1500
+Ireland IRE,Argentina ARG,187,48,139,1000,1500
+Ireland IRE,Finland FIN,187,52,135,1000,1500
+Ireland IRE,France FRA,187,52,135,1000,1500
+Ireland IRE,Norway NOR,187,53,134,1000,1500
+Ireland IRE,Vanuatu VAN,187,55,132,1000,1500
+Ireland IRE,Romania ROM,187,57,130,1000,1500
+Ireland IRE,Portugal POR,187,59,128,1000,1500
+Ireland IRE,Botswana BOT,187,63,124,1000,1500
+Ireland IRE,Nigeria NGR,187,64,123,1000,1500
+Ireland IRE,Austria AUT,187,65,122,1000,1500
+Ireland IRE,Cayman Islands CAY,187,66,121,1000,1500
+Ireland IRE,Belgium BEL,187,67,120,1000,1500
+Ireland IRE,Isle of Man IOM,187,68,119,1000,1500
+Ireland IRE,Guernsey GSY,187,70,117,1000,1500
+Ireland IRE,Denmark DEN,187,72,115,1000,1500
+Ireland IRE,Spain ESP,187,79,108,1000,1500
+Ireland IRE,Germany GER,187,84,103,1000,1500
+Ireland IRE,Bermuda BRM,187,88,99,1200,1800
+Ireland IRE,Tanzania TAN,187,90,97,1200,1800
+Ireland IRE,Saudi Arabia SDA,187,94,93,1200,1800
+Ireland IRE,Bahrain BRN,187,96,91,1200,1800
+Ireland IRE,Malaysia MAS,187,106,81,1200,1800
+Ireland IRE,Italy ITA,187,106,81,1200,1800
+Ireland IRE,Kenya KEN,187,107,80,1200,1800
+Ireland IRE,Singapore SIN,187,115,72,1200,1800
+Ireland IRE,Uganda UGA,187,118,69,1200,1800
+Ireland IRE,United States USA,187,119,68,1200,1800
+Ireland IRE,Kuwait KUW,187,120,67,1200,1800
+Ireland IRE,Qatar QAT,187,126,61,1200,1800
+Ireland IRE,Jersey JSY,187,127,60,1200,1800
+Ireland IRE,Canada CAN,187,128,59,1200,1800
+Ireland IRE,Hong Kong HK,187,128,59,1200,1800
+Ireland IRE,Papua New Guinea PNG,187,146,41,1400,2100
+Ireland IRE,Netherlands NED,187,168,19,1400,2100
+Ireland IRE,Oman OMA,187,170,17,1400,2100
+Ireland IRE,Nepal NEP,187,180,7,1400,2100
+Ireland IRE,Scotland SCO,187,182,5,1400,2100
+Ireland IRE,Namibia NAM,187,183,4,1400,2100
+Ireland IRE,UAE UAE,187,185,2,1400,2100
+UAE UAE,Turkey TUR,185,0,185,1000,1500
+UAE UAE,Thailand THA,185,0,185,1000,1500
+UAE UAE,Eswatini SWA,185,0,185,1000,1500
+UAE UAE,Lesotho LES,185,0,185,1000,1500
+UAE UAE,Estonia EST,185,0,185,1000,1500
+UAE UAE,Gibraltar GIB,185,3,182,1000,1500
+UAE UAE,Greece GRE,185,3,182,1000,1500
+UAE UAE,Maldives MDV,185,5,180,1000,1500
+UAE UAE,Seychelles SEY,185,9,176,1000,1500
+UAE UAE,Bulgaria BUL,185,9,176,1000,1500
+UAE UAE,Samoa SAM,185,10,175,1000,1500
+UAE UAE,Serbia SER,185,11,174,1000,1500
+UAE UAE,Rwanda RWA,185,19,166,1000,1500
+UAE UAE,Panama PAN,185,21,164,1000,1500
+UAE UAE,Hungary HUN,185,22,163,1000,1500
+UAE UAE,Belize BIZ,185,22,163,1000,1500
+UAE UAE,Mozambique MOZ,185,24,161,1000,1500
+UAE UAE,Bahamas BAH,185,24,161,1000,1500
+UAE UAE,Cyprus CYP,185,26,159,1000,1500
+UAE UAE,Bhutan BHU,185,30,155,1000,1500
+UAE UAE,Sierra Leone SRL,185,33,152,1000,1500
+UAE UAE,Luxembourg LUX,185,34,151,1000,1500
+UAE UAE,Switzerland CHE,185,36,149,1000,1500
+UAE UAE,Malta MLT,185,36,149,1000,1500
+UAE UAE,Czech Republic CZE,185,41,144,1000,1500
+UAE UAE,Ghana GHA,185,42,143,1000,1500
+UAE UAE,Sweden SWE,185,43,142,1000,1500
+UAE UAE,Malawi MAW,185,45,140,1000,1500
+UAE UAE,Argentina ARG,185,48,137,1000,1500
+UAE UAE,Finland FIN,185,52,133,1000,1500
+UAE UAE,France FRA,185,52,133,1000,1500
+UAE UAE,Norway NOR,185,53,132,1000,1500
+UAE UAE,Vanuatu VAN,185,55,130,1000,1500
+UAE UAE,Romania ROM,185,57,128,1000,1500
+UAE UAE,Portugal POR,185,59,126,1000,1500
+UAE UAE,Botswana BOT,185,63,122,1000,1500
+UAE UAE,Nigeria NGR,185,64,121,1000,1500
+UAE UAE,Austria AUT,185,65,120,1000,1500
+UAE UAE,Cayman Islands CAY,185,66,119,1000,1500
+UAE UAE,Belgium BEL,185,67,118,1000,1500
+UAE UAE,Isle of Man IOM,185,68,117,1000,1500
+UAE UAE,Guernsey GSY,185,70,115,1000,1500
+UAE UAE,Denmark DEN,185,72,113,1000,1500
+UAE UAE,Spain ESP,185,79,106,1000,1500
+UAE UAE,Germany GER,185,84,101,1000,1500
+UAE UAE,Bermuda BRM,185,88,97,1200,1800
+UAE UAE,Tanzania TAN,185,90,95,1200,1800
+UAE UAE,Saudi Arabia SDA,185,94,91,1200,1800
+UAE UAE,Bahrain BRN,185,96,89,1200,1800
+UAE UAE,Malaysia MAS,185,106,79,1200,1800
+UAE UAE,Italy ITA,185,106,79,1200,1800
+UAE UAE,Kenya KEN,185,107,78,1200,1800
+UAE UAE,Singapore SIN,185,115,70,1200,1800
+UAE UAE,Uganda UGA,185,118,67,1200,1800
+UAE UAE,United States USA,185,119,66,1200,1800
+UAE UAE,Kuwait KUW,185,120,65,1200,1800
+UAE UAE,Qatar QAT,185,126,59,1200,1800
+UAE UAE,Jersey JSY,185,127,58,1200,1800
+UAE UAE,Canada CAN,185,128,57,1200,1800
+UAE UAE,Hong Kong HK,185,128,57,1200,1800
+UAE UAE,Papua New Guinea PNG,185,146,39,1400,2100
+UAE UAE,Netherlands NED,185,168,17,1400,2100
+UAE UAE,Oman OMA,185,170,15,1400,2100
+UAE UAE,Nepal NEP,185,180,5,1400,2100
+UAE UAE,Scotland SCO,185,182,3,1400,2100
+UAE UAE,Namibia NAM,185,183,2,1400,2100
+Namibia NAM,Turkey TUR,183,0,183,1000,1500
+Namibia NAM,Thailand THA,183,0,183,1000,1500
+Namibia NAM,Eswatini SWA,183,0,183,1000,1500
+Namibia NAM,Lesotho LES,183,0,183,1000,1500
+Namibia NAM,Estonia EST,183,0,183,1000,1500
+Namibia NAM,Gibraltar GIB,183,3,180,1000,1500
+Namibia NAM,Greece GRE,183,3,180,1000,1500
+Namibia NAM,Maldives MDV,183,5,178,1000,1500
+Namibia NAM,Seychelles SEY,183,9,174,1000,1500
+Namibia NAM,Bulgaria BUL,183,9,174,1000,1500
+Namibia NAM,Samoa SAM,183,10,173,1000,1500
+Namibia NAM,Serbia SER,183,11,172,1000,1500
+Namibia NAM,Rwanda RWA,183,19,164,1000,1500
+Namibia NAM,Panama PAN,183,21,162,1000,1500
+Namibia NAM,Hungary HUN,183,22,161,1000,1500
+Namibia NAM,Belize BIZ,183,22,161,1000,1500
+Namibia NAM,Mozambique MOZ,183,24,159,1000,1500
+Namibia NAM,Bahamas BAH,183,24,159,1000,1500
+Namibia NAM,Cyprus CYP,183,26,157,1000,1500
+Namibia NAM,Bhutan BHU,183,30,153,1000,1500
+Namibia NAM,Sierra Leone SRL,183,33,150,1000,1500
+Namibia NAM,Luxembourg LUX,183,34,149,1000,1500
+Namibia NAM,Switzerland CHE,183,36,147,1000,1500
+Namibia NAM,Malta MLT,183,36,147,1000,1500
+Namibia NAM,Czech Republic CZE,183,41,142,1000,1500
+Namibia NAM,Ghana GHA,183,42,141,1000,1500
+Namibia NAM,Sweden SWE,183,43,140,1000,1500
+Namibia NAM,Malawi MAW,183,45,138,1000,1500
+Namibia NAM,Argentina ARG,183,48,135,1000,1500
+Namibia NAM,Finland FIN,183,52,131,1000,1500
+Namibia NAM,France FRA,183,52,131,1000,1500
+Namibia NAM,Norway NOR,183,53,130,1000,1500
+Namibia NAM,Vanuatu VAN,183,55,128,1000,1500
+Namibia NAM,Romania ROM,183,57,126,1000,1500
+Namibia NAM,Portugal POR,183,59,124,1000,1500
+Namibia NAM,Botswana BOT,183,63,120,1000,1500
+Namibia NAM,Nigeria NGR,183,64,119,1000,1500
+Namibia NAM,Austria AUT,183,65,118,1000,1500
+Namibia NAM,Cayman Islands CAY,183,66,117,1000,1500
+Namibia NAM,Belgium BEL,183,67,116,1000,1500
+Namibia NAM,Isle of Man IOM,183,68,115,1000,1500
+Namibia NAM,Guernsey GSY,183,70,113,1000,1500
+Namibia NAM,Denmark DEN,183,72,111,1000,1500
+Namibia NAM,Spain ESP,183,79,104,1000,1500
+Namibia NAM,Germany GER,183,84,99,1200,1800
+Namibia NAM,Bermuda BRM,183,88,95,1200,1800
+Namibia NAM,Tanzania TAN,183,90,93,1200,1800
+Namibia NAM,Saudi Arabia SDA,183,94,89,1200,1800
+Namibia NAM,Bahrain BRN,183,96,87,1200,1800
+Namibia NAM,Malaysia MAS,183,106,77,1200,1800
+Namibia NAM,Italy ITA,183,106,77,1200,1800
+Namibia NAM,Kenya KEN,183,107,76,1200,1800
+Namibia NAM,Singapore SIN,183,115,68,1200,1800
+Namibia NAM,Uganda UGA,183,118,65,1200,1800
+Namibia NAM,United States USA,183,119,64,1200,1800
+Namibia NAM,Kuwait KUW,183,120,63,1200,1800
+Namibia NAM,Qatar QAT,183,126,57,1200,1800
+Namibia NAM,Jersey JSY,183,127,56,1200,1800
+Namibia NAM,Canada CAN,183,128,55,1200,1800
+Namibia NAM,Hong Kong HK,183,128,55,1200,1800
+Namibia NAM,Papua New Guinea PNG,183,146,37,1400,2100
+Namibia NAM,Netherlands NED,183,168,15,1400,2100
+Namibia NAM,Oman OMA,183,170,13,1400,2100
+Namibia NAM,Nepal NEP,183,180,3,1400,2100
+Namibia NAM,Scotland SCO,183,182,1,1400,2100
+Scotland SCO,Turkey TUR,182,0,182,1000,1500
+Scotland SCO,Thailand THA,182,0,182,1000,1500
+Scotland SCO,Eswatini SWA,182,0,182,1000,1500
+Scotland SCO,Lesotho LES,182,0,182,1000,1500
+Scotland SCO,Estonia EST,182,0,182,1000,1500
+Scotland SCO,Gibraltar GIB,182,3,179,1000,1500
+Scotland SCO,Greece GRE,182,3,179,1000,1500
+Scotland SCO,Maldives MDV,182,5,177,1000,1500
+Scotland SCO,Seychelles SEY,182,9,173,1000,1500
+Scotland SCO,Bulgaria BUL,182,9,173,1000,1500
+Scotland SCO,Samoa SAM,182,10,172,1000,1500
+Scotland SCO,Serbia SER,182,11,171,1000,1500
+Scotland SCO,Rwanda RWA,182,19,163,1000,1500
+Scotland SCO,Panama PAN,182,21,161,1000,1500
+Scotland SCO,Hungary HUN,182,22,160,1000,1500
+Scotland SCO,Belize BIZ,182,22,160,1000,1500
+Scotland SCO,Mozambique MOZ,182,24,158,1000,1500
+Scotland SCO,Bahamas BAH,182,24,158,1000,1500
+Scotland SCO,Cyprus CYP,182,26,156,1000,1500
+Scotland SCO,Bhutan BHU,182,30,152,1000,1500
+Scotland SCO,Sierra Leone SRL,182,33,149,1000,1500
+Scotland SCO,Luxembourg LUX,182,34,148,1000,1500
+Scotland SCO,Switzerland CHE,182,36,146,1000,1500
+Scotland SCO,Malta MLT,182,36,146,1000,1500
+Scotland SCO,Czech Republic CZE,182,41,141,1000,1500
+Scotland SCO,Ghana GHA,182,42,140,1000,1500
+Scotland SCO,Sweden SWE,182,43,139,1000,1500
+Scotland SCO,Malawi MAW,182,45,137,1000,1500
+Scotland SCO,Argentina ARG,182,48,134,1000,1500
+Scotland SCO,Finland FIN,182,52,130,1000,1500
+Scotland SCO,France FRA,182,52,130,1000,1500
+Scotland SCO,Norway NOR,182,53,129,1000,1500
+Scotland SCO,Vanuatu VAN,182,55,127,1000,1500
+Scotland SCO,Romania ROM,182,57,125,1000,1500
+Scotland SCO,Portugal POR,182,59,123,1000,1500
+Scotland SCO,Botswana BOT,182,63,119,1000,1500
+Scotland SCO,Nigeria NGR,182,64,118,1000,1500
+Scotland SCO,Austria AUT,182,65,117,1000,1500
+Scotland SCO,Cayman Islands CAY,182,66,116,1000,1500
+Scotland SCO,Belgium BEL,182,67,115,1000,1500
+Scotland SCO,Isle of Man IOM,182,68,114,1000,1500
+Scotland SCO,Guernsey GSY,182,70,112,1000,1500
+Scotland SCO,Denmark DEN,182,72,110,1000,1500
+Scotland SCO,Spain ESP,182,79,103,1000,1500
+Scotland SCO,Germany GER,182,84,98,1200,1800
+Scotland SCO,Bermuda BRM,182,88,94,1200,1800
+Scotland SCO,Tanzania TAN,182,90,92,1200,1800
+Scotland SCO,Saudi Arabia SDA,182,94,88,1200,1800
+Scotland SCO,Bahrain BRN,182,96,86,1200,1800
+Scotland SCO,Malaysia MAS,182,106,76,1200,1800
+Scotland SCO,Italy ITA,182,106,76,1200,1800
+Scotland SCO,Kenya KEN,182,107,75,1200,1800
+Scotland SCO,Singapore SIN,182,115,67,1200,1800
+Scotland SCO,Uganda UGA,182,118,64,1200,1800
+Scotland SCO,United States USA,182,119,63,1200,1800
+Scotland SCO,Kuwait KUW,182,120,62,1200,1800
+Scotland SCO,Qatar QAT,182,126,56,1200,1800
+Scotland SCO,Jersey JSY,182,127,55,1200,1800
+Scotland SCO,Canada CAN,182,128,54,1200,1800
+Scotland SCO,Hong Kong HK,182,128,54,1200,1800
+Scotland SCO,Papua New Guinea PNG,182,146,36,1400,2100
+Scotland SCO,Netherlands NED,182,168,14,1400,2100
+Scotland SCO,Oman OMA,182,170,12,1400,2100
+Scotland SCO,Nepal NEP,182,180,2,1400,2100
+Nepal NEP,Turkey TUR,180,0,180,1000,1500
+Nepal NEP,Thailand THA,180,0,180,1000,1500
+Nepal NEP,Eswatini SWA,180,0,180,1000,1500
+Nepal NEP,Lesotho LES,180,0,180,1000,1500
+Nepal NEP,Estonia EST,180,0,180,1000,1500
+Nepal NEP,Gibraltar GIB,180,3,177,1000,1500
+Nepal NEP,Greece GRE,180,3,177,1000,1500
+Nepal NEP,Maldives MDV,180,5,175,1000,1500
+Nepal NEP,Seychelles SEY,180,9,171,1000,1500
+Nepal NEP,Bulgaria BUL,180,9,171,1000,1500
+Nepal NEP,Samoa SAM,180,10,170,1000,1500
+Nepal NEP,Serbia SER,180,11,169,1000,1500
+Nepal NEP,Rwanda RWA,180,19,161,1000,1500
+Nepal NEP,Panama PAN,180,21,159,1000,1500
+Nepal NEP,Hungary HUN,180,22,158,1000,1500
+Nepal NEP,Belize BIZ,180,22,158,1000,1500
+Nepal NEP,Mozambique MOZ,180,24,156,1000,1500
+Nepal NEP,Bahamas BAH,180,24,156,1000,1500
+Nepal NEP,Cyprus CYP,180,26,154,1000,1500
+Nepal NEP,Bhutan BHU,180,30,150,1000,1500
+Nepal NEP,Sierra Leone SRL,180,33,147,1000,1500
+Nepal NEP,Luxembourg LUX,180,34,146,1000,1500
+Nepal NEP,Switzerland CHE,180,36,144,1000,1500
+Nepal NEP,Malta MLT,180,36,144,1000,1500
+Nepal NEP,Czech Republic CZE,180,41,139,1000,1500
+Nepal NEP,Ghana GHA,180,42,138,1000,1500
+Nepal NEP,Sweden SWE,180,43,137,1000,1500
+Nepal NEP,Malawi MAW,180,45,135,1000,1500
+Nepal NEP,Argentina ARG,180,48,132,1000,1500
+Nepal NEP,Finland FIN,180,52,128,1000,1500
+Nepal NEP,France FRA,180,52,128,1000,1500
+Nepal NEP,Norway NOR,180,53,127,1000,1500
+Nepal NEP,Vanuatu VAN,180,55,125,1000,1500
+Nepal NEP,Romania ROM,180,57,123,1000,1500
+Nepal NEP,Portugal POR,180,59,121,1000,1500
+Nepal NEP,Botswana BOT,180,63,117,1000,1500
+Nepal NEP,Nigeria NGR,180,64,116,1000,1500
+Nepal NEP,Austria AUT,180,65,115,1000,1500
+Nepal NEP,Cayman Islands CAY,180,66,114,1000,1500
+Nepal NEP,Belgium BEL,180,67,113,1000,1500
+Nepal NEP,Isle of Man IOM,180,68,112,1000,1500
+Nepal NEP,Guernsey GSY,180,70,110,1000,1500
+Nepal NEP,Denmark DEN,180,72,108,1000,1500
+Nepal NEP,Spain ESP,180,79,101,1000,1500
+Nepal NEP,Germany GER,180,84,96,1200,1800
+Nepal NEP,Bermuda BRM,180,88,92,1200,1800
+Nepal NEP,Tanzania TAN,180,90,90,1200,1800
+Nepal NEP,Saudi Arabia SDA,180,94,86,1200,1800
+Nepal NEP,Bahrain BRN,180,96,84,1200,1800
+Nepal NEP,Malaysia MAS,180,106,74,1200,1800
+Nepal NEP,Italy ITA,180,106,74,1200,1800
+Nepal NEP,Kenya KEN,180,107,73,1200,1800
+Nepal NEP,Singapore SIN,180,115,65,1200,1800
+Nepal NEP,Uganda UGA,180,118,62,1200,1800
+Nepal NEP,United States USA,180,119,61,1200,1800
+Nepal NEP,Kuwait KUW,180,120,60,1200,1800
+Nepal NEP,Qatar QAT,180,126,54,1200,1800
+Nepal NEP,Jersey JSY,180,127,53,1200,1800
+Nepal NEP,Canada CAN,180,128,52,1200,1800
+Nepal NEP,Hong Kong HK,180,128,52,1200,1800
+Nepal NEP,Papua New Guinea PNG,180,146,34,1400,2100
+Nepal NEP,Netherlands NED,180,168,12,1400,2100
+Nepal NEP,Oman OMA,180,170,10,1400,2100
+Oman OMA,Turkey TUR,170,0,170,1000,1500
+Oman OMA,Thailand THA,170,0,170,1000,1500
+Oman OMA,Eswatini SWA,170,0,170,1000,1500
+Oman OMA,Lesotho LES,170,0,170,1000,1500
+Oman OMA,Estonia EST,170,0,170,1000,1500
+Oman OMA,Gibraltar GIB,170,3,167,1000,1500
+Oman OMA,Greece GRE,170,3,167,1000,1500
+Oman OMA,Maldives MDV,170,5,165,1000,1500
+Oman OMA,Seychelles SEY,170,9,161,1000,1500
+Oman OMA,Bulgaria BUL,170,9,161,1000,1500
+Oman OMA,Samoa SAM,170,10,160,1000,1500
+Oman OMA,Serbia SER,170,11,159,1000,1500
+Oman OMA,Rwanda RWA,170,19,151,1000,1500
+Oman OMA,Panama PAN,170,21,149,1000,1500
+Oman OMA,Hungary HUN,170,22,148,1000,1500
+Oman OMA,Belize BIZ,170,22,148,1000,1500
+Oman OMA,Mozambique MOZ,170,24,146,1000,1500
+Oman OMA,Bahamas BAH,170,24,146,1000,1500
+Oman OMA,Cyprus CYP,170,26,144,1000,1500
+Oman OMA,Bhutan BHU,170,30,140,1000,1500
+Oman OMA,Sierra Leone SRL,170,33,137,1000,1500
+Oman OMA,Luxembourg LUX,170,34,136,1000,1500
+Oman OMA,Switzerland CHE,170,36,134,1000,1500
+Oman OMA,Malta MLT,170,36,134,1000,1500
+Oman OMA,Czech Republic CZE,170,41,129,1000,1500
+Oman OMA,Ghana GHA,170,42,128,1000,1500
+Oman OMA,Sweden SWE,170,43,127,1000,1500
+Oman OMA,Malawi MAW,170,45,125,1000,1500
+Oman OMA,Argentina ARG,170,48,122,1000,1500
+Oman OMA,Finland FIN,170,52,118,1000,1500
+Oman OMA,France FRA,170,52,118,1000,1500
+Oman OMA,Norway NOR,170,53,117,1000,1500
+Oman OMA,Vanuatu VAN,170,55,115,1000,1500
+Oman OMA,Romania ROM,170,57,113,1000,1500
+Oman OMA,Portugal POR,170,59,111,1000,1500
+Oman OMA,Botswana BOT,170,63,107,1000,1500
+Oman OMA,Nigeria NGR,170,64,106,1000,1500
+Oman OMA,Austria AUT,170,65,105,1000,1500
+Oman OMA,Cayman Islands CAY,170,66,104,1000,1500
+Oman OMA,Belgium BEL,170,67,103,1000,1500
+Oman OMA,Isle of Man IOM,170,68,102,1000,1500
+Oman OMA,Guernsey GSY,170,70,100,1000,1500
+Oman OMA,Denmark DEN,170,72,98,1200,1800
+Oman OMA,Spain ESP,170,79,91,1200,1800
+Oman OMA,Germany GER,170,84,86,1200,1800
+Oman OMA,Bermuda BRM,170,88,82,1200,1800
+Oman OMA,Tanzania TAN,170,90,80,1200,1800
+Oman OMA,Saudi Arabia SDA,170,94,76,1200,1800
+Oman OMA,Bahrain BRN,170,96,74,1200,1800
+Oman OMA,Malaysia MAS,170,106,64,1200,1800
+Oman OMA,Italy ITA,170,106,64,1200,1800
+Oman OMA,Kenya KEN,170,107,63,1200,1800
+Oman OMA,Singapore SIN,170,115,55,1200,1800
+Oman OMA,Uganda UGA,170,118,52,1200,1800
+Oman OMA,United States USA,170,119,51,1200,1800
+Oman OMA,Kuwait KUW,170,120,50,1200,1800
+Oman OMA,Qatar QAT,170,126,44,1400,2100
+Oman OMA,Jersey JSY,170,127,43,1400,2100
+Oman OMA,Canada CAN,170,128,42,1400,2100
+Oman OMA,Hong Kong HK,170,128,42,1400,2100
+Oman OMA,Papua New Guinea PNG,170,146,24,1400,2100
+Oman OMA,Netherlands NED,170,168,2,1400,2100
+Netherlands NED,Turkey TUR,168,0,168,1000,1500
+Netherlands NED,Thailand THA,168,0,168,1000,1500
+Netherlands NED,Eswatini SWA,168,0,168,1000,1500
+Netherlands NED,Lesotho LES,168,0,168,1000,1500
+Netherlands NED,Estonia EST,168,0,168,1000,1500
+Netherlands NED,Gibraltar GIB,168,3,165,1000,1500
+Netherlands NED,Greece GRE,168,3,165,1000,1500
+Netherlands NED,Maldives MDV,168,5,163,1000,1500
+Netherlands NED,Seychelles SEY,168,9,159,1000,1500
+Netherlands NED,Bulgaria BUL,168,9,159,1000,1500
+Netherlands NED,Samoa SAM,168,10,158,1000,1500
+Netherlands NED,Serbia SER,168,11,157,1000,1500
+Netherlands NED,Rwanda RWA,168,19,149,1000,1500
+Netherlands NED,Panama PAN,168,21,147,1000,1500
+Netherlands NED,Hungary HUN,168,22,146,1000,1500
+Netherlands NED,Belize BIZ,168,22,146,1000,1500
+Netherlands NED,Mozambique MOZ,168,24,144,1000,1500
+Netherlands NED,Bahamas BAH,168,24,144,1000,1500
+Netherlands NED,Cyprus CYP,168,26,142,1000,1500
+Netherlands NED,Bhutan BHU,168,30,138,1000,1500
+Netherlands NED,Sierra Leone SRL,168,33,135,1000,1500
+Netherlands NED,Luxembourg LUX,168,34,134,1000,1500
+Netherlands NED,Switzerland CHE,168,36,132,1000,1500
+Netherlands NED,Malta MLT,168,36,132,1000,1500
+Netherlands NED,Czech Republic CZE,168,41,127,1000,1500
+Netherlands NED,Ghana GHA,168,42,126,1000,1500
+Netherlands NED,Sweden SWE,168,43,125,1000,1500
+Netherlands NED,Malawi MAW,168,45,123,1000,1500
+Netherlands NED,Argentina ARG,168,48,120,1000,1500
+Netherlands NED,Finland FIN,168,52,116,1000,1500
+Netherlands NED,France FRA,168,52,116,1000,1500
+Netherlands NED,Norway NOR,168,53,115,1000,1500
+Netherlands NED,Vanuatu VAN,168,55,113,1000,1500
+Netherlands NED,Romania ROM,168,57,111,1000,1500
+Netherlands NED,Portugal POR,168,59,109,1000,1500
+Netherlands NED,Botswana BOT,168,63,105,1000,1500
+Netherlands NED,Nigeria NGR,168,64,104,1000,1500
+Netherlands NED,Austria AUT,168,65,103,1000,1500
+Netherlands NED,Cayman Islands CAY,168,66,102,1000,1500
+Netherlands NED,Belgium BEL,168,67,101,1000,1500
+Netherlands NED,Isle of Man IOM,168,68,100,1000,1500
+Netherlands NED,Guernsey GSY,168,70,98,1200,1800
+Netherlands NED,Denmark DEN,168,72,96,1200,1800
+Netherlands NED,Spain ESP,168,79,89,1200,1800
+Netherlands NED,Germany GER,168,84,84,1200,1800
+Netherlands NED,Bermuda BRM,168,88,80,1200,1800
+Netherlands NED,Tanzania TAN,168,90,78,1200,1800
+Netherlands NED,Saudi Arabia SDA,168,94,74,1200,1800
+Netherlands NED,Bahrain BRN,168,96,72,1200,1800
+Netherlands NED,Malaysia MAS,168,106,62,1200,1800
+Netherlands NED,Italy ITA,168,106,62,1200,1800
+Netherlands NED,Kenya KEN,168,107,61,1200,1800
+Netherlands NED,Singapore SIN,168,115,53,1200,1800
+Netherlands NED,Uganda UGA,168,118,50,1200,1800
+Netherlands NED,United States USA,168,119,49,1400,2100
+Netherlands NED,Kuwait KUW,168,120,48,1400,2100
+Netherlands NED,Qatar QAT,168,126,42,1400,2100
+Netherlands NED,Jersey JSY,168,127,41,1400,2100
+Netherlands NED,Canada CAN,168,128,40,1400,2100
+Netherlands NED,Hong Kong HK,168,128,40,1400,2100
+Netherlands NED,Papua New Guinea PNG,168,146,22,1400,2100
+Papua New Guinea PNG,Turkey TUR,146,0,146,1000,1500
+Papua New Guinea PNG,Thailand THA,146,0,146,1000,1500
+Papua New Guinea PNG,Eswatini SWA,146,0,146,1000,1500
+Papua New Guinea PNG,Lesotho LES,146,0,146,1000,1500
+Papua New Guinea PNG,Estonia EST,146,0,146,1000,1500
+Papua New Guinea PNG,Gibraltar GIB,146,3,143,1000,1500
+Papua New Guinea PNG,Greece GRE,146,3,143,1000,1500
+Papua New Guinea PNG,Maldives MDV,146,5,141,1000,1500
+Papua New Guinea PNG,Seychelles SEY,146,9,137,1000,1500
+Papua New Guinea PNG,Bulgaria BUL,146,9,137,1000,1500
+Papua New Guinea PNG,Samoa SAM,146,10,136,1000,1500
+Papua New Guinea PNG,Serbia SER,146,11,135,1000,1500
+Papua New Guinea PNG,Rwanda RWA,146,19,127,1000,1500
+Papua New Guinea PNG,Panama PAN,146,21,125,1000,1500
+Papua New Guinea PNG,Hungary HUN,146,22,124,1000,1500
+Papua New Guinea PNG,Belize BIZ,146,22,124,1000,1500
+Papua New Guinea PNG,Mozambique MOZ,146,24,122,1000,1500
+Papua New Guinea PNG,Bahamas BAH,146,24,122,1000,1500
+Papua New Guinea PNG,Cyprus CYP,146,26,120,1000,1500
+Papua New Guinea PNG,Bhutan BHU,146,30,116,1000,1500
+Papua New Guinea PNG,Sierra Leone SRL,146,33,113,1000,1500
+Papua New Guinea PNG,Luxembourg LUX,146,34,112,1000,1500
+Papua New Guinea PNG,Switzerland CHE,146,36,110,1000,1500
+Papua New Guinea PNG,Malta MLT,146,36,110,1000,1500
+Papua New Guinea PNG,Czech Republic CZE,146,41,105,1000,1500
+Papua New Guinea PNG,Ghana GHA,146,42,104,1000,1500
+Papua New Guinea PNG,Sweden SWE,146,43,103,1000,1500
+Papua New Guinea PNG,Malawi MAW,146,45,101,1000,1500
+Papua New Guinea PNG,Argentina ARG,146,48,98,1200,1800
+Papua New Guinea PNG,Finland FIN,146,52,94,1200,1800
+Papua New Guinea PNG,France FRA,146,52,94,1200,1800
+Papua New Guinea PNG,Norway NOR,146,53,93,1200,1800
+Papua New Guinea PNG,Vanuatu VAN,146,55,91,1200,1800
+Papua New Guinea PNG,Romania ROM,146,57,89,1200,1800
+Papua New Guinea PNG,Portugal POR,146,59,87,1200,1800
+Papua New Guinea PNG,Botswana BOT,146,63,83,1200,1800
+Papua New Guinea PNG,Nigeria NGR,146,64,82,1200,1800
+Papua New Guinea PNG,Austria AUT,146,65,81,1200,1800
+Papua New Guinea PNG,Cayman Islands CAY,146,66,80,1200,1800
+Papua New Guinea PNG,Belgium BEL,146,67,79,1200,1800
+Papua New Guinea PNG,Isle of Man IOM,146,68,78,1200,1800
+Papua New Guinea PNG,Guernsey GSY,146,70,76,1200,1800
+Papua New Guinea PNG,Denmark DEN,146,72,74,1200,1800
+Papua New Guinea PNG,Spain ESP,146,79,67,1200,1800
+Papua New Guinea PNG,Germany GER,146,84,62,1200,1800
+Papua New Guinea PNG,Bermuda BRM,146,88,58,1200,1800
+Papua New Guinea PNG,Tanzania TAN,146,90,56,1200,1800
+Papua New Guinea PNG,Saudi Arabia SDA,146,94,52,1200,1800
+Papua New Guinea PNG,Bahrain BRN,146,96,50,1200,1800
+Papua New Guinea PNG,Malaysia MAS,146,106,40,1400,2100
+Papua New Guinea PNG,Italy ITA,146,106,40,1400,2100
+Papua New Guinea PNG,Kenya KEN,146,107,39,1400,2100
+Papua New Guinea PNG,Singapore SIN,146,115,31,1400,2100
+Papua New Guinea PNG,Uganda UGA,146,118,28,1400,2100
+Papua New Guinea PNG,United States USA,146,119,27,1400,2100
+Papua New Guinea PNG,Kuwait KUW,146,120,26,1400,2100
+Papua New Guinea PNG,Qatar QAT,146,126,20,1400,2100
+Papua New Guinea PNG,Jersey JSY,146,127,19,1400,2100
+Papua New Guinea PNG,Canada CAN,146,128,18,1400,2100
+Papua New Guinea PNG,Hong Kong HK,146,128,18,1400,2100
+Hong Kong HK,Turkey TUR,128,0,128,1000,1500
+Hong Kong HK,Thailand THA,128,0,128,1000,1500
+Hong Kong HK,Eswatini SWA,128,0,128,1000,1500
+Hong Kong HK,Lesotho LES,128,0,128,1000,1500
+Hong Kong HK,Estonia EST,128,0,128,1000,1500
+Hong Kong HK,Gibraltar GIB,128,3,125,1000,1500
+Hong Kong HK,Greece GRE,128,3,125,1000,1500
+Hong Kong HK,Maldives MDV,128,5,123,1000,1500
+Hong Kong HK,Seychelles SEY,128,9,119,1000,1500
+Hong Kong HK,Bulgaria BUL,128,9,119,1000,1500
+Hong Kong HK,Samoa SAM,128,10,118,1000,1500
+Hong Kong HK,Serbia SER,128,11,117,1000,1500
+Hong Kong HK,Rwanda RWA,128,19,109,1000,1500
+Hong Kong HK,Panama PAN,128,21,107,1000,1500
+Hong Kong HK,Hungary HUN,128,22,106,1000,1500
+Hong Kong HK,Belize BIZ,128,22,106,1000,1500
+Hong Kong HK,Mozambique MOZ,128,24,104,1000,1500
+Hong Kong HK,Bahamas BAH,128,24,104,1000,1500
+Hong Kong HK,Cyprus CYP,128,26,102,1000,1500
+Hong Kong HK,Bhutan BHU,128,30,98,1200,1800
+Hong Kong HK,Sierra Leone SRL,128,33,95,1200,1800
+Hong Kong HK,Luxembourg LUX,128,34,94,1200,1800
+Hong Kong HK,Switzerland CHE,128,36,92,1200,1800
+Hong Kong HK,Malta MLT,128,36,92,1200,1800
+Hong Kong HK,Czech Republic CZE,128,41,87,1200,1800
+Hong Kong HK,Ghana GHA,128,42,86,1200,1800
+Hong Kong HK,Sweden SWE,128,43,85,1200,1800
+Hong Kong HK,Malawi MAW,128,45,83,1200,1800
+Hong Kong HK,Argentina ARG,128,48,80,1200,1800
+Hong Kong HK,Finland FIN,128,52,76,1200,1800
+Hong Kong HK,France FRA,128,52,76,1200,1800
+Hong Kong HK,Norway NOR,128,53,75,1200,1800
+Hong Kong HK,Vanuatu VAN,128,55,73,1200,1800
+Hong Kong HK,Romania ROM,128,57,71,1200,1800
+Hong Kong HK,Portugal POR,128,59,69,1200,1800
+Hong Kong HK,Botswana BOT,128,63,65,1200,1800
+Hong Kong HK,Nigeria NGR,128,64,64,1200,1800
+Hong Kong HK,Austria AUT,128,65,63,1200,1800
+Hong Kong HK,Cayman Islands CAY,128,66,62,1200,1800
+Hong Kong HK,Belgium BEL,128,67,61,1200,1800
+Hong Kong HK,Isle of Man IOM,128,68,60,1200,1800
+Hong Kong HK,Guernsey GSY,128,70,58,1200,1800
+Hong Kong HK,Denmark DEN,128,72,56,1200,1800
+Hong Kong HK,Spain ESP,128,79,49,1400,2100
+Hong Kong HK,Germany GER,128,84,44,1400,2100
+Hong Kong HK,Bermuda BRM,128,88,40,1400,2100
+Hong Kong HK,Tanzania TAN,128,90,38,1400,2100
+Hong Kong HK,Saudi Arabia SDA,128,94,34,1400,2100
+Hong Kong HK,Bahrain BRN,128,96,32,1400,2100
+Hong Kong HK,Malaysia MAS,128,106,22,1400,2100
+Hong Kong HK,Italy ITA,128,106,22,1400,2100
+Hong Kong HK,Kenya KEN,128,107,21,1400,2100
+Hong Kong HK,Singapore SIN,128,115,13,1400,2100
+Hong Kong HK,Uganda UGA,128,118,10,1400,2100
+Hong Kong HK,United States USA,128,119,9,1400,2100
+Hong Kong HK,Kuwait KUW,128,120,8,1400,2100
+Hong Kong HK,Qatar QAT,128,126,2,1400,2100
+Hong Kong HK,Jersey JSY,128,127,1,1400,2100
+Hong Kong HK,Canada CAN,128,128,0,1400,2100
+Canada CAN,Turkey TUR,128,0,128,1000,1500
+Canada CAN,Greece GRE,128,3,125,1000,1500
+Canada CAN,Gibraltar GIB,128,3,125,1000,1500
+Canada CAN,Samoa SAM,128,5,123,1000,1500
+Canada CAN,Maldives MDV,128,5,123,1000,1500
+Canada CAN,Bulgaria BUL,128,9,119,1000,1500
+Canada CAN,Seychelles SEY,128,9,119,1000,1500
+Canada CAN,Serbia SER,128,11,117,1000,1500
+Canada CAN,Rwanda RWA,128,19,109,1000,1500
+Canada CAN,Mozambique MOZ,128,20,108,1000,1500
+Canada CAN,Panama PAN,128,21,107,1000,1500
+Canada CAN,Belize BIZ,128,22,106,1000,1500
+Canada CAN,Hungary HUN,128,22,106,1000,1500
+Canada CAN,Bahamas BAH,128,24,104,1000,1500
+Canada CAN,Cyprus CYP,128,26,102,1000,1500
+Canada CAN,Fiji FIJ,128,30,98,1200,1800
+Canada CAN,Bhutan BHU,128,30,98,1200,1800
+Canada CAN,Sierra Leone SRL,128,33,95,1200,1800
+Canada CAN,Luxembourg LUX,128,34,94,1200,1800
+Canada CAN,Malta MLT,128,36,92,1200,1800
+Canada CAN,Switzerland CHE,128,36,92,1200,1800
+Canada CAN,Czech Republic CZE,128,41,87,1200,1800
+Canada CAN,Cook Islands COK,128,41,87,1200,1800
+Canada CAN,Ghana GHA,128,41,87,1200,1800
+Canada CAN,Sweden SWE,128,43,85,1200,1800
+Canada CAN,Malawi MAW,128,45,83,1200,1800
+Canada CAN,Argentina ARG,128,48,80,1200,1800
+Canada CAN,France FRA,128,52,76,1200,1800
+Canada CAN,Finland FIN,128,52,76,1200,1800
+Canada CAN,Norway NOR,128,53,75,1200,1800
+Canada CAN,Romania ROM,128,57,71,1200,1800
+Canada CAN,Portugal POR,128,59,69,1200,1800
+Canada CAN,Vanuatu VAN,128,59,69,1200,1800
+Canada CAN,Botswana BOT,128,64,64,1200,1800
+Canada CAN,Nigeria NGR,128,64,64,1200,1800
+Canada CAN,Austria AUT,128,65,63,1200,1800
+Canada CAN,Cayman Islands CAY,128,66,62,1200,1800
+Canada CAN,Belgium BEL,128,67,61,1200,1800
+Canada CAN,Isle of Man IOM,128,68,60,1200,1800
+Canada CAN,Guernsey GSY,128,70,58,1200,1800
+Canada CAN,Denmark DEN,128,72,56,1200,1800
+Canada CAN,Spain ESP,128,79,49,1400,2100
+Canada CAN,Germany GER,128,84,44,1400,2100
+Canada CAN,Bermuda BRM,128,88,40,1400,2100
+Canada CAN,Saudi Arabia SDA,128,94,34,1400,2100
+Canada CAN,Bahrain BRN,128,96,32,1400,2100
+Canada CAN,Tanzania TAN,128,96,32,1400,2100
+Canada CAN,Kenya KEN,128,104,24,1400,2100
+Canada CAN,Italy ITA,128,106,22,1400,2100
+Canada CAN,Malaysia MAS,128,106,22,1400,2100
+Canada CAN,Singapore SIN,128,115,13,1400,2100
+Canada CAN,United States USA,128,119,9,1400,2100
+Canada CAN,Kuwait KUW,128,120,8,1400,2100
+Canada CAN,Uganda UGA,128,121,7,1400,2100
+Canada CAN,Qatar QAT,128,126,2,1400,2100
+Canada CAN,Jersey JSY,128,127,1,1400,2100
+Jersey JSY,Turkey TUR,127,0,127,1000,1500
+Jersey JSY,Greece GRE,127,3,124,1000,1500
+Jersey JSY,Gibraltar GIB,127,3,124,1000,1500
+Jersey JSY,Samoa SAM,127,5,122,1000,1500
+Jersey JSY,Maldives MDV,127,5,122,1000,1500
+Jersey JSY,Bulgaria BUL,127,9,118,1000,1500
+Jersey JSY,Seychelles SEY,127,9,118,1000,1500
+Jersey JSY,Serbia SER,127,11,116,1000,1500
+Jersey JSY,Rwanda RWA,127,19,108,1000,1500
+Jersey JSY,Mozambique MOZ,127,20,107,1000,1500
+Jersey JSY,Panama PAN,127,21,106,1000,1500
+Jersey JSY,Belize BIZ,127,22,105,1000,1500
+Jersey JSY,Hungary HUN,127,22,105,1000,1500
+Jersey JSY,Bahamas BAH,127,24,103,1000,1500
+Jersey JSY,Cyprus CYP,127,26,101,1000,1500
+Jersey JSY,Fiji FIJ,127,30,97,1200,1800
+Jersey JSY,Bhutan BHU,127,30,97,1200,1800
+Jersey JSY,Sierra Leone SRL,127,33,94,1200,1800
+Jersey JSY,Luxembourg LUX,127,34,93,1200,1800
+Jersey JSY,Malta MLT,127,36,91,1200,1800
+Jersey JSY,Switzerland CHE,127,36,91,1200,1800
+Jersey JSY,Czech Republic CZE,127,41,86,1200,1800
+Jersey JSY,Cook Islands COK,127,41,86,1200,1800
+Jersey JSY,Ghana GHA,127,41,86,1200,1800
+Jersey JSY,Sweden SWE,127,43,84,1200,1800
+Jersey JSY,Malawi MAW,127,45,82,1200,1800
+Jersey JSY,Argentina ARG,127,48,79,1200,1800
+Jersey JSY,France FRA,127,52,75,1200,1800
+Jersey JSY,Finland FIN,127,52,75,1200,1800
+Jersey JSY,Norway NOR,127,53,74,1200,1800
+Jersey JSY,Romania ROM,127,57,70,1200,1800
+Jersey JSY,Portugal POR,127,59,68,1200,1800
+Jersey JSY,Vanuatu VAN,127,59,68,1200,1800
+Jersey JSY,Botswana BOT,127,64,63,1200,1800
+Jersey JSY,Nigeria NGR,127,64,63,1200,1800
+Jersey JSY,Austria AUT,127,65,62,1200,1800
+Jersey JSY,Cayman Islands CAY,127,66,61,1200,1800
+Jersey JSY,Belgium BEL,127,67,60,1200,1800
+Jersey JSY,Isle of Man IOM,127,68,59,1200,1800
+Jersey JSY,Guernsey GSY,127,70,57,1200,1800
+Jersey JSY,Denmark DEN,127,72,55,1200,1800
+Jersey JSY,Spain ESP,127,79,48,1400,2100
+Jersey JSY,Germany GER,127,84,43,1400,2100
+Jersey JSY,Bermuda BRM,127,88,39,1400,2100
+Jersey JSY,Saudi Arabia SDA,127,94,33,1400,2100
+Jersey JSY,Bahrain BRN,127,96,31,1400,2100
+Jersey JSY,Tanzania TAN,127,96,31,1400,2100
+Jersey JSY,Kenya KEN,127,104,23,1400,2100
+Jersey JSY,Italy ITA,127,106,21,1400,2100
+Jersey JSY,Malaysia MAS,127,106,21,1400,2100
+Jersey JSY,Singapore SIN,127,115,12,1400,2100
+Jersey JSY,United States USA,127,119,8,1400,2100
+Jersey JSY,Kuwait KUW,127,120,7,1400,2100
+Jersey JSY,Uganda UGA,127,121,6,1400,2100
+Jersey JSY,Qatar QAT,127,126,1,1400,2100
+Qatar QAT,Turkey TUR,126,0,126,1000,1500
+Qatar QAT,Greece GRE,126,3,123,1000,1500
+Qatar QAT,Gibraltar GIB,126,3,123,1000,1500
+Qatar QAT,Samoa SAM,126,5,121,1000,1500
+Qatar QAT,Maldives MDV,126,5,121,1000,1500
+Qatar QAT,Bulgaria BUL,126,9,117,1000,1500
+Qatar QAT,Seychelles SEY,126,9,117,1000,1500
+Qatar QAT,Serbia SER,126,11,115,1000,1500
+Qatar QAT,Rwanda RWA,126,19,107,1000,1500
+Qatar QAT,Mozambique MOZ,126,20,106,1000,1500
+Qatar QAT,Panama PAN,126,21,105,1000,1500
+Qatar QAT,Belize BIZ,126,22,104,1000,1500
+Qatar QAT,Hungary HUN,126,22,104,1000,1500
+Qatar QAT,Bahamas BAH,126,24,102,1000,1500
+Qatar QAT,Cyprus CYP,126,26,100,1000,1500
+Qatar QAT,Fiji FIJ,126,30,96,1200,1800
+Qatar QAT,Bhutan BHU,126,30,96,1200,1800
+Qatar QAT,Sierra Leone SRL,126,33,93,1200,1800
+Qatar QAT,Luxembourg LUX,126,34,92,1200,1800
+Qatar QAT,Malta MLT,126,36,90,1200,1800
+Qatar QAT,Switzerland CHE,126,36,90,1200,1800
+Qatar QAT,Czech Republic CZE,126,41,85,1200,1800
+Qatar QAT,Cook Islands COK,126,41,85,1200,1800
+Qatar QAT,Ghana GHA,126,41,85,1200,1800
+Qatar QAT,Sweden SWE,126,43,83,1200,1800
+Qatar QAT,Malawi MAW,126,45,81,1200,1800
+Qatar QAT,Argentina ARG,126,48,78,1200,1800
+Qatar QAT,France FRA,126,52,74,1200,1800
+Qatar QAT,Finland FIN,126,52,74,1200,1800
+Qatar QAT,Norway NOR,126,53,73,1200,1800
+Qatar QAT,Romania ROM,126,57,69,1200,1800
+Qatar QAT,Portugal POR,126,59,67,1200,1800
+Qatar QAT,Vanuatu VAN,126,59,67,1200,1800
+Qatar QAT,Botswana BOT,126,64,62,1200,1800
+Qatar QAT,Nigeria NGR,126,64,62,1200,1800
+Qatar QAT,Austria AUT,126,65,61,1200,1800
+Qatar QAT,Cayman Islands CAY,126,66,60,1200,1800
+Qatar QAT,Belgium BEL,126,67,59,1200,1800
+Qatar QAT,Isle of Man IOM,126,68,58,1200,1800
+Qatar QAT,Guernsey GSY,126,70,56,1200,1800
+Qatar QAT,Denmark DEN,126,72,54,1200,1800
+Qatar QAT,Spain ESP,126,79,47,1400,2100
+Qatar QAT,Germany GER,126,84,42,1400,2100
+Qatar QAT,Bermuda BRM,126,88,38,1400,2100
+Qatar QAT,Saudi Arabia SDA,126,94,32,1400,2100
+Qatar QAT,Bahrain BRN,126,96,30,1400,2100
+Qatar QAT,Tanzania TAN,126,96,30,1400,2100
+Qatar QAT,Kenya KEN,126,104,22,1400,2100
+Qatar QAT,Italy ITA,126,106,20,1400,2100
+Qatar QAT,Malaysia MAS,126,106,20,1400,2100
+Qatar QAT,Singapore SIN,126,115,11,1400,2100
+Qatar QAT,United States USA,126,119,7,1400,2100
+Qatar QAT,Kuwait KUW,126,120,6,1400,2100
+Qatar QAT,Uganda UGA,126,121,5,1400,2100
+Uganda UGA,Turkey TUR,121,0,121,1000,1500
+Uganda UGA,Greece GRE,121,3,118,1000,1500
+Uganda UGA,Gibraltar GIB,121,3,118,1000,1500
+Uganda UGA,Samoa SAM,121,5,116,1000,1500
+Uganda UGA,Maldives MDV,121,5,116,1000,1500
+Uganda UGA,Bulgaria BUL,121,9,112,1000,1500
+Uganda UGA,Seychelles SEY,121,9,112,1000,1500
+Uganda UGA,Serbia SER,121,11,110,1000,1500
+Uganda UGA,Rwanda RWA,121,19,102,1000,1500
+Uganda UGA,Mozambique MOZ,121,20,101,1000,1500
+Uganda UGA,Panama PAN,121,21,100,1000,1500
+Uganda UGA,Belize BIZ,121,22,99,1200,1800
+Uganda UGA,Hungary HUN,121,22,99,1200,1800
+Uganda UGA,Bahamas BAH,121,24,97,1200,1800
+Uganda UGA,Cyprus CYP,121,26,95,1200,1800
+Uganda UGA,Fiji FIJ,121,30,91,1200,1800
+Uganda UGA,Bhutan BHU,121,30,91,1200,1800
+Uganda UGA,Sierra Leone SRL,121,33,88,1200,1800
+Uganda UGA,Luxembourg LUX,121,34,87,1200,1800
+Uganda UGA,Malta MLT,121,36,85,1200,1800
+Uganda UGA,Switzerland CHE,121,36,85,1200,1800
+Uganda UGA,Czech Republic CZE,121,41,80,1200,1800
+Uganda UGA,Cook Islands COK,121,41,80,1200,1800
+Uganda UGA,Ghana GHA,121,41,80,1200,1800
+Uganda UGA,Sweden SWE,121,43,78,1200,1800
+Uganda UGA,Malawi MAW,121,45,76,1200,1800
+Uganda UGA,Argentina ARG,121,48,73,1200,1800
+Uganda UGA,France FRA,121,52,69,1200,1800
+Uganda UGA,Finland FIN,121,52,69,1200,1800
+Uganda UGA,Norway NOR,121,53,68,1200,1800
+Uganda UGA,Romania ROM,121,57,64,1200,1800
+Uganda UGA,Portugal POR,121,59,62,1200,1800
+Uganda UGA,Vanuatu VAN,121,59,62,1200,1800
+Uganda UGA,Botswana BOT,121,64,57,1200,1800
+Uganda UGA,Nigeria NGR,121,64,57,1200,1800
+Uganda UGA,Austria AUT,121,65,56,1200,1800
+Uganda UGA,Cayman Islands CAY,121,66,55,1200,1800
+Uganda UGA,Belgium BEL,121,67,54,1200,1800
+Uganda UGA,Isle of Man IOM,121,68,53,1200,1800
+Uganda UGA,Guernsey GSY,121,70,51,1200,1800
+Uganda UGA,Denmark DEN,121,72,49,1400,2100
+Uganda UGA,Spain ESP,121,79,42,1400,2100
+Uganda UGA,Germany GER,121,84,37,1400,2100
+Uganda UGA,Bermuda BRM,121,88,33,1400,2100
+Uganda UGA,Saudi Arabia SDA,121,94,27,1400,2100
+Uganda UGA,Bahrain BRN,121,96,25,1400,2100
+Uganda UGA,Tanzania TAN,121,96,25,1400,2100
+Uganda UGA,Kenya KEN,121,104,17,1400,2100
+Uganda UGA,Italy ITA,121,106,15,1400,2100
+Uganda UGA,Malaysia MAS,121,106,15,1400,2100
+Uganda UGA,Singapore SIN,121,115,6,1400,2100
+Uganda UGA,United States USA,121,119,2,1400,2100
+Uganda UGA,Kuwait KUW,121,120,1,1400,2100
+Kuwait KUW,Turkey TUR,120,0,120,1000,1500
+Kuwait KUW,Greece GRE,120,3,117,1000,1500
+Kuwait KUW,Gibraltar GIB,120,3,117,1000,1500
+Kuwait KUW,Samoa SAM,120,5,115,1000,1500
+Kuwait KUW,Maldives MDV,120,5,115,1000,1500
+Kuwait KUW,Bulgaria BUL,120,9,111,1000,1500
+Kuwait KUW,Seychelles SEY,120,9,111,1000,1500
+Kuwait KUW,Serbia SER,120,11,109,1000,1500
+Kuwait KUW,Rwanda RWA,120,19,101,1000,1500
+Kuwait KUW,Mozambique MOZ,120,20,100,1000,1500
+Kuwait KUW,Panama PAN,120,21,99,1200,1800
+Kuwait KUW,Belize BIZ,120,22,98,1200,1800
+Kuwait KUW,Hungary HUN,120,22,98,1200,1800
+Kuwait KUW,Bahamas BAH,120,24,96,1200,1800
+Kuwait KUW,Cyprus CYP,120,26,94,1200,1800
+Kuwait KUW,Fiji FIJ,120,30,90,1200,1800
+Kuwait KUW,Bhutan BHU,120,30,90,1200,1800
+Kuwait KUW,Sierra Leone SRL,120,33,87,1200,1800
+Kuwait KUW,Luxembourg LUX,120,34,86,1200,1800
+Kuwait KUW,Malta MLT,120,36,84,1200,1800
+Kuwait KUW,Switzerland CHE,120,36,84,1200,1800
+Kuwait KUW,Czech Republic CZE,120,41,79,1200,1800
+Kuwait KUW,Cook Islands COK,120,41,79,1200,1800
+Kuwait KUW,Ghana GHA,120,41,79,1200,1800
+Kuwait KUW,Sweden SWE,120,43,77,1200,1800
+Kuwait KUW,Malawi MAW,120,45,75,1200,1800
+Kuwait KUW,Argentina ARG,120,48,72,1200,1800
+Kuwait KUW,France FRA,120,52,68,1200,1800
+Kuwait KUW,Finland FIN,120,52,68,1200,1800
+Kuwait KUW,Norway NOR,120,53,67,1200,1800
+Kuwait KUW,Romania ROM,120,57,63,1200,1800
+Kuwait KUW,Portugal POR,120,59,61,1200,1800
+Kuwait KUW,Vanuatu VAN,120,59,61,1200,1800
+Kuwait KUW,Botswana BOT,120,64,56,1200,1800
+Kuwait KUW,Nigeria NGR,120,64,56,1200,1800
+Kuwait KUW,Austria AUT,120,65,55,1200,1800
+Kuwait KUW,Cayman Islands CAY,120,66,54,1200,1800
+Kuwait KUW,Belgium BEL,120,67,53,1200,1800
+Kuwait KUW,Isle of Man IOM,120,68,52,1200,1800
+Kuwait KUW,Guernsey GSY,120,70,50,1200,1800
+Kuwait KUW,Denmark DEN,120,72,48,1400,2100
+Kuwait KUW,Spain ESP,120,79,41,1400,2100
+Kuwait KUW,Germany GER,120,84,36,1400,2100
+Kuwait KUW,Bermuda BRM,120,88,32,1400,2100
+Kuwait KUW,Saudi Arabia SDA,120,94,26,1400,2100
+Kuwait KUW,Bahrain BRN,120,96,24,1400,2100
+Kuwait KUW,Tanzania TAN,120,96,24,1400,2100
+Kuwait KUW,Kenya KEN,120,104,16,1400,2100
+Kuwait KUW,Italy ITA,120,106,14,1400,2100
+Kuwait KUW,Malaysia MAS,120,106,14,1400,2100
+Kuwait KUW,Singapore SIN,120,115,5,1400,2100
+Kuwait KUW,United States USA,120,119,1,1400,2100
+United States USA,Turkey TUR,119,0,119,1000,1500
+United States USA,Greece GRE,119,3,116,1000,1500
+United States USA,Gibraltar GIB,119,3,116,1000,1500
+United States USA,Samoa SAM,119,5,114,1000,1500
+United States USA,Maldives MDV,119,5,114,1000,1500
+United States USA,Bulgaria BUL,119,9,110,1000,1500
+United States USA,Seychelles SEY,119,9,110,1000,1500
+United States USA,Serbia SER,119,11,108,1000,1500
+United States USA,Rwanda RWA,119,19,100,1000,1500
+United States USA,Mozambique MOZ,119,20,99,1200,1800
+United States USA,Panama PAN,119,21,98,1200,1800
+United States USA,Belize BIZ,119,22,97,1200,1800
+United States USA,Hungary HUN,119,22,97,1200,1800
+United States USA,Bahamas BAH,119,24,95,1200,1800
+United States USA,Cyprus CYP,119,26,93,1200,1800
+United States USA,Fiji FIJ,119,30,89,1200,1800
+United States USA,Bhutan BHU,119,30,89,1200,1800
+United States USA,Sierra Leone SRL,119,33,86,1200,1800
+United States USA,Luxembourg LUX,119,34,85,1200,1800
+United States USA,Malta MLT,119,36,83,1200,1800
+United States USA,Switzerland CHE,119,36,83,1200,1800
+United States USA,Czech Republic CZE,119,41,78,1200,1800
+United States USA,Cook Islands COK,119,41,78,1200,1800
+United States USA,Ghana GHA,119,41,78,1200,1800
+United States USA,Sweden SWE,119,43,76,1200,1800
+United States USA,Malawi MAW,119,45,74,1200,1800
+United States USA,Argentina ARG,119,48,71,1200,1800
+United States USA,France FRA,119,52,67,1200,1800
+United States USA,Finland FIN,119,52,67,1200,1800
+United States USA,Norway NOR,119,53,66,1200,1800
+United States USA,Romania ROM,119,57,62,1200,1800
+United States USA,Portugal POR,119,59,60,1200,1800
+United States USA,Vanuatu VAN,119,59,60,1200,1800
+United States USA,Botswana BOT,119,64,55,1200,1800
+United States USA,Nigeria NGR,119,64,55,1200,1800
+United States USA,Austria AUT,119,65,54,1200,1800
+United States USA,Cayman Islands CAY,119,66,53,1200,1800
+United States USA,Belgium BEL,119,67,52,1200,1800
+United States USA,Isle of Man IOM,119,68,51,1200,1800
+United States USA,Guernsey GSY,119,70,49,1400,2100
+United States USA,Denmark DEN,119,72,47,1400,2100
+United States USA,Spain ESP,119,79,40,1400,2100
+United States USA,Germany GER,119,84,35,1400,2100
+United States USA,Bermuda BRM,119,88,31,1400,2100
+United States USA,Saudi Arabia SDA,119,94,25,1400,2100
+United States USA,Bahrain BRN,119,96,23,1400,2100
+United States USA,Tanzania TAN,119,96,23,1400,2100
+United States USA,Kenya KEN,119,104,15,1400,2100
+United States USA,Italy ITA,119,106,13,1400,2100
+United States USA,Malaysia MAS,119,106,13,1400,2100
+United States USA,Singapore SIN,119,115,4,1400,2100
+Singapore SIN,Turkey TUR,115,0,115,1000,1500
+Singapore SIN,Greece GRE,115,3,112,1000,1500
+Singapore SIN,Gibraltar GIB,115,3,112,1000,1500
+Singapore SIN,Samoa SAM,115,5,110,1000,1500
+Singapore SIN,Maldives MDV,115,5,110,1000,1500
+Singapore SIN,Bulgaria BUL,115,9,106,1000,1500
+Singapore SIN,Seychelles SEY,115,9,106,1000,1500
+Singapore SIN,Serbia SER,115,11,104,1000,1500
+Singapore SIN,Rwanda RWA,115,19,96,1200,1800
+Singapore SIN,Mozambique MOZ,115,20,95,1200,1800
+Singapore SIN,Panama PAN,115,21,94,1200,1800
+Singapore SIN,Belize BIZ,115,22,93,1200,1800
+Singapore SIN,Hungary HUN,115,22,93,1200,1800
+Singapore SIN,Bahamas BAH,115,24,91,1200,1800
+Singapore SIN,Cyprus CYP,115,26,89,1200,1800
+Singapore SIN,Fiji FIJ,115,30,85,1200,1800
+Singapore SIN,Bhutan BHU,115,30,85,1200,1800
+Singapore SIN,Sierra Leone SRL,115,33,82,1200,1800
+Singapore SIN,Luxembourg LUX,115,34,81,1200,1800
+Singapore SIN,Malta MLT,115,36,79,1200,1800
+Singapore SIN,Switzerland CHE,115,36,79,1200,1800
+Singapore SIN,Czech Republic CZE,115,41,74,1200,1800
+Singapore SIN,Cook Islands COK,115,41,74,1200,1800
+Singapore SIN,Ghana GHA,115,41,74,1200,1800
+Singapore SIN,Sweden SWE,115,43,72,1200,1800
+Singapore SIN,Malawi MAW,115,45,70,1200,1800
+Singapore SIN,Argentina ARG,115,48,67,1200,1800
+Singapore SIN,France FRA,115,52,63,1200,1800
+Singapore SIN,Finland FIN,115,52,63,1200,1800
+Singapore SIN,Norway NOR,115,53,62,1200,1800
+Singapore SIN,Romania ROM,115,57,58,1200,1800
+Singapore SIN,Portugal POR,115,59,56,1200,1800
+Singapore SIN,Vanuatu VAN,115,59,56,1200,1800
+Singapore SIN,Botswana BOT,115,64,51,1200,1800
+Singapore SIN,Nigeria NGR,115,64,51,1200,1800
+Singapore SIN,Austria AUT,115,65,50,1200,1800
+Singapore SIN,Cayman Islands CAY,115,66,49,1400,2100
+Singapore SIN,Belgium BEL,115,67,48,1400,2100
+Singapore SIN,Isle of Man IOM,115,68,47,1400,2100
+Singapore SIN,Guernsey GSY,115,70,45,1400,2100
+Singapore SIN,Denmark DEN,115,72,43,1400,2100
+Singapore SIN,Spain ESP,115,79,36,1400,2100
+Singapore SIN,Germany GER,115,84,31,1400,2100
+Singapore SIN,Bermuda BRM,115,88,27,1400,2100
+Singapore SIN,Saudi Arabia SDA,115,94,21,1400,2100
+Singapore SIN,Bahrain BRN,115,96,19,1400,2100
+Singapore SIN,Tanzania TAN,115,96,19,1400,2100
+Singapore SIN,Kenya KEN,115,104,11,1400,2100
+Singapore SIN,Italy ITA,115,106,9,1400,2100
+Singapore SIN,Malaysia MAS,115,106,9,1400,2100
+Malaysia MAS,Turkey TUR,106,0,106,1000,1500
+Malaysia MAS,Greece GRE,106,3,103,1000,1500
+Malaysia MAS,Gibraltar GIB,106,3,103,1000,1500
+Malaysia MAS,Samoa SAM,106,5,101,1000,1500
+Malaysia MAS,Maldives MDV,106,5,101,1000,1500
+Malaysia MAS,Bulgaria BUL,106,9,97,1200,1800
+Malaysia MAS,Seychelles SEY,106,9,97,1200,1800
+Malaysia MAS,Serbia SER,106,11,95,1200,1800
+Malaysia MAS,Rwanda RWA,106,19,87,1200,1800
+Malaysia MAS,Mozambique MOZ,106,20,86,1200,1800
+Malaysia MAS,Panama PAN,106,21,85,1200,1800
+Malaysia MAS,Belize BIZ,106,22,84,1200,1800
+Malaysia MAS,Hungary HUN,106,22,84,1200,1800
+Malaysia MAS,Bahamas BAH,106,24,82,1200,1800
+Malaysia MAS,Cyprus CYP,106,26,80,1200,1800
+Malaysia MAS,Fiji FIJ,106,30,76,1200,1800
+Malaysia MAS,Bhutan BHU,106,30,76,1200,1800
+Malaysia MAS,Sierra Leone SRL,106,33,73,1200,1800
+Malaysia MAS,Luxembourg LUX,106,34,72,1200,1800
+Malaysia MAS,Malta MLT,106,36,70,1200,1800
+Malaysia MAS,Switzerland CHE,106,36,70,1200,1800
+Malaysia MAS,Czech Republic CZE,106,41,65,1200,1800
+Malaysia MAS,Cook Islands COK,106,41,65,1200,1800
+Malaysia MAS,Ghana GHA,106,41,65,1200,1800
+Malaysia MAS,Sweden SWE,106,43,63,1200,1800
+Malaysia MAS,Malawi MAW,106,45,61,1200,1800
+Malaysia MAS,Argentina ARG,106,48,58,1200,1800
+Malaysia MAS,France FRA,106,52,54,1200,1800
+Malaysia MAS,Finland FIN,106,52,54,1200,1800
+Malaysia MAS,Norway NOR,106,53,53,1200,1800
+Malaysia MAS,Romania ROM,106,57,49,1400,2100
+Malaysia MAS,Portugal POR,106,59,47,1400,2100
+Malaysia MAS,Vanuatu VAN,106,59,47,1400,2100
+Malaysia MAS,Botswana BOT,106,64,42,1400,2100
+Malaysia MAS,Nigeria NGR,106,64,42,1400,2100
+Malaysia MAS,Austria AUT,106,65,41,1400,2100
+Malaysia MAS,Cayman Islands CAY,106,66,40,1400,2100
+Malaysia MAS,Belgium BEL,106,67,39,1400,2100
+Malaysia MAS,Isle of Man IOM,106,68,38,1400,2100
+Malaysia MAS,Guernsey GSY,106,70,36,1400,2100
+Malaysia MAS,Denmark DEN,106,72,34,1400,2100
+Malaysia MAS,Spain ESP,106,79,27,1400,2100
+Malaysia MAS,Germany GER,106,84,22,1400,2100
+Malaysia MAS,Bermuda BRM,106,88,18,1400,2100
+Malaysia MAS,Saudi Arabia SDA,106,94,12,1400,2100
+Malaysia MAS,Bahrain BRN,106,96,10,1400,2100
+Malaysia MAS,Tanzania TAN,106,96,10,1400,2100
+Malaysia MAS,Kenya KEN,106,104,2,1400,2100
+Malaysia MAS,Italy ITA,106,106,0,1400,2100
+Italy ITA,Turkey TUR,106,0,106,1000,1500
+Italy ITA,Greece GRE,106,3,103,1000,1500
+Italy ITA,Gibraltar GIB,106,3,103,1000,1500
+Italy ITA,Samoa SAM,106,5,101,1000,1500
+Italy ITA,Maldives MDV,106,5,101,1000,1500
+Italy ITA,Bulgaria BUL,106,9,97,1200,1800
+Italy ITA,Seychelles SEY,106,9,97,1200,1800
+Italy ITA,Serbia SER,106,11,95,1200,1800
+Italy ITA,Rwanda RWA,106,19,87,1200,1800
+Italy ITA,Mozambique MOZ,106,20,86,1200,1800
+Italy ITA,Panama PAN,106,21,85,1200,1800
+Italy ITA,Belize BIZ,106,22,84,1200,1800
+Italy ITA,Hungary HUN,106,22,84,1200,1800
+Italy ITA,Bahamas BAH,106,24,82,1200,1800
+Italy ITA,Cyprus CYP,106,26,80,1200,1800
+Italy ITA,Fiji FIJ,106,30,76,1200,1800
+Italy ITA,Bhutan BHU,106,30,76,1200,1800
+Italy ITA,Sierra Leone SRL,106,33,73,1200,1800
+Italy ITA,Luxembourg LUX,106,34,72,1200,1800
+Italy ITA,Malta MLT,106,36,70,1200,1800
+Italy ITA,Switzerland CHE,106,36,70,1200,1800
+Italy ITA,Czech Republic CZE,106,41,65,1200,1800
+Italy ITA,Cook Islands COK,106,41,65,1200,1800
+Italy ITA,Ghana GHA,106,41,65,1200,1800
+Italy ITA,Sweden SWE,106,43,63,1200,1800
+Italy ITA,Malawi MAW,106,45,61,1200,1800
+Italy ITA,Argentina ARG,106,48,58,1200,1800
+Italy ITA,France FRA,106,52,54,1200,1800
+Italy ITA,Finland FIN,106,52,54,1200,1800
+Italy ITA,Norway NOR,106,53,53,1200,1800
+Italy ITA,Romania ROM,106,57,49,1500,2100
+Italy ITA,Portugal POR,106,59,47,1500,2100
+Italy ITA,Vanuatu VAN,106,59,47,1500,2100
+Italy ITA,Botswana BOT,106,64,42,1500,2100
+Italy ITA,Nigeria NGR,106,64,42,1500,2100
+Italy ITA,Austria AUT,106,65,41,1500,2100
+Italy ITA,Cayman Islands CAY,106,66,40,1500,2100
+Italy ITA,Belgium BEL,106,67,39,1500,2100
+Italy ITA,Isle of Man IOM,106,68,38,1500,2100
+Italy ITA,Guernsey GSY,106,70,36,1500,2100
+Italy ITA,Denmark DEN,106,72,34,1500,2100
+Italy ITA,Spain ESP,106,79,27,1500,2100
+Italy ITA,Germany GER,106,84,22,1500,2100
+Italy ITA,Bermuda BRM,106,88,18,1500,2100
+Italy ITA,Saudi Arabia SDA,106,94,12,1500,2100
+Italy ITA,Bahrain BRN,106,96,10,1500,2100
+Italy ITA,Tanzania TAN,106,96,10,1500,2100
+Italy ITA,Kenya KEN,106,104,2,1500,2100
+Kenya KEN,Turkey TUR,104,0,104,1000,1500
+Kenya KEN,Greece GRE,104,3,101,1000,1500
+Kenya KEN,Gibraltar GIB,104,3,101,1000,1500
+Kenya KEN,Samoa SAM,104,5,99,1200,1800
+Kenya KEN,Maldives MDV,104,5,99,1200,1800
+Kenya KEN,Bulgaria BUL,104,9,95,1200,1800
+Kenya KEN,Seychelles SEY,104,9,95,1200,1800
+Kenya KEN,Serbia SER,104,11,93,1200,1800
+Kenya KEN,Rwanda RWA,104,19,85,1200,1800
+Kenya KEN,Mozambique MOZ,104,20,84,1200,1800
+Kenya KEN,Panama PAN,104,21,83,1200,1800
+Kenya KEN,Belize BIZ,104,22,82,1200,1800
+Kenya KEN,Hungary HUN,104,22,82,1200,1800
+Kenya KEN,Bahamas BAH,104,24,80,1200,1800
+Kenya KEN,Cyprus CYP,104,26,78,1200,1800
+Kenya KEN,Fiji FIJ,104,30,74,1200,1800
+Kenya KEN,Bhutan BHU,104,30,74,1200,1800
+Kenya KEN,Sierra Leone SRL,104,33,71,1200,1800
+Kenya KEN,Luxembourg LUX,104,34,70,1200,1800
+Kenya KEN,Malta MLT,104,36,68,1200,1800
+Kenya KEN,Switzerland CHE,104,36,68,1200,1800
+Kenya KEN,Czech Republic CZE,104,41,63,1200,1800
+Kenya KEN,Cook Islands COK,104,41,63,1200,1800
+Kenya KEN,Ghana GHA,104,41,63,1200,1800
+Kenya KEN,Sweden SWE,104,43,61,1200,1800
+Kenya KEN,Malawi MAW,104,45,59,1200,1800
+Kenya KEN,Argentina ARG,104,48,56,1200,1800
+Kenya KEN,France FRA,104,52,52,1200,1800
+Kenya KEN,Finland FIN,104,52,52,1200,1800
+Kenya KEN,Norway NOR,104,53,51,1200,1800
+Kenya KEN,Romania ROM,104,57,47,1500,2100
+Kenya KEN,Portugal POR,104,59,45,1500,2100
+Kenya KEN,Vanuatu VAN,104,59,45,1500,2100
+Kenya KEN,Botswana BOT,104,64,40,1500,2100
+Kenya KEN,Nigeria NGR,104,64,40,1500,2100
+Kenya KEN,Austria AUT,104,65,39,1500,2100
+Kenya KEN,Cayman Islands CAY,104,66,38,1500,2100
+Kenya KEN,Belgium BEL,104,67,37,1500,2100
+Kenya KEN,Isle of Man IOM,104,68,36,1500,2100
+Kenya KEN,Guernsey GSY,104,70,34,1500,2100
+Kenya KEN,Denmark DEN,104,72,32,1500,2100
+Kenya KEN,Spain ESP,104,79,25,1500,2100
+Kenya KEN,Germany GER,104,84,20,1500,2100
+Kenya KEN,Bermuda BRM,104,88,16,1500,2100
+Kenya KEN,Saudi Arabia SDA,104,94,10,1500,2100
+Kenya KEN,Bahrain BRN,104,96,8,1500,2100
+Kenya KEN,Tanzania TAN,104,96,8,1500,2100
